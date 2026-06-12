@@ -1,0 +1,1185 @@
+OrderID,Date,CustomerID,Product,Quantity,UnitPrice,ShippingAddress,PaymentMethod,OrderStatus,TrackingNumber,ItemsInCart,CouponCode,ReferralSource,TotalPrice
+ord200000,2023-01-04,c72649,monitor,5,570.62,928 main st,debit card,shipped,trk37947903,7,save10,instagram,2853.1
+ord200001,2024-08-23,c75739,phone,2,151.35,823 main st,online,shipped,trk91186779,3,save10,referral,302.7
+ord200002,2024-02-27,c81728,tablet,5,550.68,512 main st,credit card,cancelled,trk42903982,8,freeship,email,2753.4
+ord200003,2023-10-15,c33540,chair,1,273.19,275 main st,debit card,returned,trk62788070,5,save10,facebook,273.19
+ord200004,2025-05-08,c81840,printer,4,626.01,668 main st,online,delivered,trk29241424,8,save10,email,2504.04
+ord200005,2023-10-23,c37249,phone,2,245.86,934 main st,credit card,shipped,trk72976927,4,save10,instagram,491.72
+ord200006,2025-06-17,c83492,laptop,1,664.42,986 main st,gift card,returned,trk96417362,6,save10,facebook,664.42
+ord200007,2023-05-12,c41460,monitor,5,149.55,706 main st,cash,shipped,trk78809193,9,freeship,facebook,747.75
+ord200008,2025-04-02,c26817,phone,2,134.28,904 main st,gift card,cancelled,trk61042692,2,freeship,email,268.56
+ord200009,2023-11-21,c31946,desk,4,509.38,102 main st,credit card,shipped,trk33478363,6,save10,google,2037.52
+ord200010,2023-12-29,c43443,tablet,5,625.97,333 main st,credit card,returned,trk98859248,9,winter15,instagram,3129.85
+ord200011,2024-02-17,c93861,monitor,3,49.14,831 main st,online,returned,trk48234646,7,save10,email,147.42
+ord200012,2024-10-15,c38785,monitor,2,180.5,179 main st,debit card,pending,trk20419991,6,freeship,referral,361.0
+ord200013,2023-08-30,c88348,laptop,3,201.49,903 main st,credit card,returned,trk81913874,4,freeship,facebook,604.47
+ord200014,2023-03-27,c98474,tablet,2,393.33,980 main st,debit card,pending,trk79186539,3,save10,instagram,786.66
+ord200015,2023-07-17,c39416,printer,1,473.96,942 main st,cash,delivered,trk54930938,3,freeship,google,473.96
+ord200016,2023-01-24,c28976,printer,2,533.81,914 main st,credit card,pending,trk13194259,3,freeship,email,1067.62
+ord200017,2024-03-02,c60672,tablet,1,423.4,382 main st,debit card,shipped,trk11972116,3,freeship,referral,423.4
+ord200018,2025-03-26,c84329,desk,1,431.44,891 main st,gift card,pending,trk65191045,3,save10,facebook,431.44
+ord200019,2023-01-23,c14552,monitor,5,224.0,273 main st,cash,returned,trk59101365,9,save10,google,1120.0
+ord200020,2023-05-08,c54829,chair,5,62.51,587 main st,cash,pending,trk16718651,9,winter15,instagram,312.55
+ord200021,2024-11-17,c99023,monitor,4,342.95,569 main st,cash,delivered,trk52646983,6,freeship,google,1371.8
+ord200022,2023-01-29,c34416,monitor,2,49.62,633 main st,online,pending,trk75937350,2,save10,google,99.24
+ord200023,2025-04-09,c42372,phone,4,273.25,755 main st,debit card,cancelled,trk36168083,5,freeship,referral,1093.0
+ord200024,2024-10-30,c17470,laptop,2,230.95,956 main st,online,delivered,trk28775057,3,winter15,referral,461.9
+ord200025,2024-07-24,c42577,monitor,1,399.98,709 main st,debit card,delivered,trk69423327,3,winter15,email,399.98
+ord200026,2024-03-06,c21944,laptop,5,59.55,296 main st,online,delivered,trk80276812,6,freeship,referral,297.75
+ord200027,2024-02-22,c97593,printer,1,472.74,881 main st,online,shipped,trk89117573,6,winter15,google,472.74
+ord200028,2023-11-21,c59823,phone,4,160.07,568 main st,online,pending,trk65895539,5,freeship,email,640.28
+ord200029,2024-09-20,c33260,desk,3,423.53,930 main st,credit card,delivered,trk59744090,6,save10,referral,1270.59
+ord200030,2025-03-22,c44267,monitor,2,426.7,895 main st,online,pending,trk54751444,5,save10,referral,853.4
+ord200031,2023-06-30,c26445,chair,3,500.08,996 main st,debit card,returned,trk31229981,6,freeship,facebook,1500.24
+ord200032,2023-05-01,c12388,tablet,5,536.72,830 main st,cash,delivered,trk99261395,10,freeship,email,2683.6
+ord200033,2023-06-05,c52184,chair,1,162.77,912 main st,online,cancelled,trk73312471,4,winter15,facebook,162.77
+ord200034,2023-01-07,c67195,chair,4,576.52,926 main st,credit card,pending,trk55467915,5,winter15,facebook,2306.08
+ord200035,2024-12-07,c50304,monitor,2,465.15,128 main st,online,shipped,trk46850888,2,save10,facebook,930.3
+ord200036,2025-05-08,c59337,laptop,2,534.43,465 main st,debit card,pending,trk50961250,5,freeship,facebook,1068.86
+ord200037,2024-10-14,c10054,laptop,2,76.74,409 main st,cash,returned,trk94005261,7,save10,instagram,153.48
+ord200038,2024-12-19,c15924,laptop,1,245.89,549 main st,debit card,delivered,trk14835975,3,save10,google,245.89
+ord200039,2025-02-27,c96664,printer,3,256.46,666 main st,credit card,delivered,trk85508960,4,save10,referral,769.38
+ord200040,2023-08-20,c84766,desk,2,344.02,267 main st,online,delivered,trk78967923,4,freeship,instagram,688.04
+ord200041,2023-12-05,c20212,monitor,3,611.45,657 main st,gift card,pending,trk69733327,4,freeship,instagram,1834.35
+ord200042,2024-05-06,c28712,printer,2,151.66,980 main st,cash,cancelled,trk40772558,6,freeship,instagram,303.32
+ord200043,2023-12-14,c60572,chair,3,499.21,871 main st,online,cancelled,trk20351666,8,freeship,instagram,1497.63
+ord200044,2025-04-21,c73225,phone,2,550.18,996 main st,gift card,returned,trk73848522,3,freeship,referral,1100.36
+ord200045,2024-02-10,c17388,chair,1,317.25,157 main st,debit card,returned,trk47077395,1,save10,facebook,317.25
+ord200046,2024-06-26,c43212,monitor,4,550.14,223 main st,debit card,pending,trk25100762,4,freeship,instagram,2200.56
+ord200047,2023-07-19,c38134,desk,2,209.94,323 main st,credit card,returned,trk42450754,3,freeship,email,419.88
+ord200048,2023-08-26,c12408,monitor,2,80.77,464 main st,debit card,shipped,trk38938858,4,freeship,google,161.54
+ord200049,2023-10-07,c11985,printer,1,30.44,633 main st,credit card,shipped,trk53272402,1,save10,email,30.44
+ord200050,2023-07-31,c96494,tablet,1,179.22,446 main st,online,cancelled,trk14675049,6,freeship,instagram,179.22
+ord200051,2024-12-30,c36778,tablet,1,388.33,434 main st,cash,returned,trk67610289,2,save10,facebook,388.33
+ord200052,2024-09-08,c30513,tablet,1,586.44,232 main st,online,returned,trk64320429,5,save10,facebook,586.44
+ord200053,2024-05-18,c67551,phone,4,488.78,512 main st,online,returned,trk94992552,5,freeship,google,1955.12
+ord200054,2025-03-27,c48120,chair,1,280.25,623 main st,online,pending,trk11014449,5,winter15,email,280.25
+ord200055,2025-06-24,c95984,printer,3,344.4,565 main st,online,cancelled,trk67434829,3,freeship,facebook,1033.2
+ord200056,2023-05-21,c54298,tablet,3,479.21,566 main st,cash,cancelled,trk62902341,5,winter15,referral,1437.63
+ord200057,2023-01-22,c88036,printer,5,314.27,842 main st,cash,returned,trk52470128,6,save10,instagram,1571.35
+ord200058,2023-01-15,c60190,phone,4,474.69,202 main st,gift card,cancelled,trk70857868,6,save10,google,1898.76
+ord200059,2024-09-11,c97603,chair,4,593.27,811 main st,online,shipped,trk47055028,5,freeship,facebook,2373.08
+ord200060,2024-08-21,c39256,desk,1,417.1,634 main st,debit card,returned,trk23412025,3,freeship,referral,417.1
+ord200061,2024-03-24,c61618,desk,4,122.2,104 main st,cash,delivered,trk43458485,7,freeship,facebook,488.8
+ord200062,2023-08-22,c36497,desk,2,43.15,691 main st,debit card,pending,trk12102911,3,winter15,email,86.3
+ord200063,2025-02-02,c96695,chair,1,564.86,813 main st,debit card,shipped,trk64283851,6,winter15,referral,564.86
+ord200064,2025-06-25,c49720,printer,3,130.61,752 main st,debit card,cancelled,trk55785217,4,freeship,facebook,391.83
+ord200065,2023-12-30,c97735,monitor,5,81.7,385 main st,credit card,delivered,trk13743703,6,freeship,instagram,408.5
+ord200066,2024-11-15,c18104,chair,5,127.18,715 main st,cash,cancelled,trk15488568,9,save10,referral,635.9
+ord200067,2024-12-09,c25587,printer,4,12.1,440 main st,debit card,cancelled,trk55105323,8,freeship,google,48.4
+ord200068,2023-12-11,c41598,chair,3,490.92,709 main st,credit card,pending,trk81665940,5,freeship,email,1472.76
+ord200069,2023-05-11,c43338,monitor,3,478.65,552 main st,online,shipped,trk35241775,4,freeship,referral,1435.95
+ord200070,2023-05-26,c25123,desk,1,629.21,384 main st,gift card,pending,trk27812282,2,freeship,instagram,629.21
+ord200071,2025-06-10,c37454,monitor,3,434.45,923 main st,credit card,pending,trk28252730,4,freeship,referral,1303.35
+ord200072,2024-12-22,c19451,tablet,4,589.44,942 main st,gift card,returned,trk87787793,5,freeship,facebook,2357.76
+ord200073,2023-05-03,c17269,monitor,4,433.45,129 main st,gift card,cancelled,trk79608389,4,freeship,facebook,1733.8
+ord200074,2023-06-24,c25382,phone,5,90.87,622 main st,cash,pending,trk64691287,5,freeship,instagram,454.35
+ord200075,2023-09-26,c80651,tablet,3,398.17,917 main st,debit card,delivered,trk14846720,5,save10,email,1194.51
+ord200076,2024-03-31,c58638,laptop,4,382.88,239 main st,cash,cancelled,trk38224871,6,winter15,email,1531.52
+ord200077,2024-05-24,c50121,phone,1,583.18,348 main st,credit card,returned,trk79810059,5,freeship,google,583.18
+ord200078,2024-08-06,c32029,printer,4,175.36,146 main st,debit card,delivered,trk68535532,4,freeship,instagram,701.44
+ord200079,2025-03-10,c76700,tablet,2,311.91,103 main st,online,shipped,trk13036341,2,freeship,facebook,623.82
+ord200080,2023-06-27,c29041,phone,3,589.56,591 main st,online,returned,trk28840655,6,freeship,facebook,1768.68
+ord200081,2023-06-08,c29314,monitor,2,394.3,496 main st,cash,shipped,trk59876213,6,freeship,email,788.6
+ord200082,2024-01-05,c65799,tablet,4,565.2,971 main st,debit card,shipped,trk66906607,9,save10,google,2260.8
+ord200083,2023-08-22,c15681,laptop,4,540.41,989 main st,credit card,cancelled,trk75112172,6,freeship,referral,2161.64
+ord200084,2023-08-28,c64160,monitor,2,165.49,967 main st,online,shipped,trk34121529,4,winter15,instagram,330.98
+ord200085,2024-09-09,c14553,tablet,3,146.73,768 main st,cash,delivered,trk93538334,8,freeship,email,440.19
+ord200086,2024-06-19,c88205,printer,5,643.03,447 main st,online,cancelled,trk93504166,5,freeship,referral,3215.15
+ord200087,2024-10-10,c91245,tablet,3,225.11,915 main st,cash,shipped,trk46976391,4,save10,facebook,675.33
+ord200088,2025-06-05,c75439,desk,3,114.81,318 main st,gift card,cancelled,trk19831653,7,freeship,google,344.43
+ord200089,2025-02-25,c17181,printer,5,455.33,291 main st,credit card,cancelled,trk78912978,8,freeship,google,2276.65
+ord200090,2023-09-18,c36540,chair,4,182.08,611 main st,gift card,delivered,trk35828122,4,save10,email,728.32
+ord200091,2023-03-15,c98216,laptop,5,492.75,196 main st,cash,shipped,trk40986666,6,winter15,referral,2463.75
+ord200092,2024-06-10,c29568,printer,4,48.61,203 main st,online,shipped,trk46531075,7,freeship,facebook,194.44
+ord200093,2023-01-14,c97262,desk,4,431.01,837 main st,credit card,returned,trk65990229,7,freeship,referral,1724.04
+ord200094,2023-02-11,c79821,chair,1,531.18,781 main st,gift card,returned,trk12780193,6,winter15,instagram,531.18
+ord200095,2023-03-24,c76761,printer,4,117.51,839 main st,debit card,returned,trk60179774,7,freeship,referral,470.04
+ord200096,2024-06-01,c93007,phone,2,232.83,103 main st,gift card,delivered,trk85696091,7,freeship,instagram,465.66
+ord200097,2025-01-21,c15624,tablet,5,619.52,922 main st,debit card,pending,trk40621141,9,freeship,email,3097.6
+ord200098,2023-01-14,c70921,printer,2,228.54,533 main st,debit card,pending,trk54983109,3,freeship,email,457.08
+ord200099,2025-04-12,c30477,printer,1,201.58,717 main st,debit card,cancelled,trk51829648,2,winter15,email,201.58
+ord200100,2023-02-17,c74866,phone,3,664.79,743 main st,online,delivered,trk53783265,6,freeship,facebook,1994.37
+ord200101,2023-11-25,c15283,printer,1,381.02,152 main st,cash,shipped,trk19286291,6,freeship,google,381.02
+ord200102,2023-03-08,c18037,laptop,2,70.34,944 main st,gift card,cancelled,trk47362236,3,freeship,email,140.68
+ord200103,2025-01-25,c62656,phone,4,218.43,514 main st,credit card,cancelled,trk86296459,9,save10,email,873.72
+ord200104,2024-07-30,c65744,phone,1,582.04,647 main st,gift card,delivered,trk39906058,1,freeship,email,582.04
+ord200105,2024-10-24,c72290,printer,3,185.4,810 main st,gift card,cancelled,trk68792129,7,freeship,facebook,556.2
+ord200106,2023-09-08,c73514,desk,3,465.05,126 main st,credit card,cancelled,trk96777924,3,save10,email,1395.15
+ord200108,2024-12-28,c33099,laptop,5,48.38,522 main st,gift card,delivered,trk28522330,9,winter15,email,241.9
+ord200109,2023-09-17,c51157,desk,3,592.87,131 main st,gift card,shipped,trk18674578,3,freeship,referral,1778.61
+ord200110,2024-04-21,c74562,tablet,1,220.77,388 main st,gift card,pending,trk32062079,5,freeship,instagram,220.77
+ord200111,2025-05-07,c95271,desk,3,309.22,620 main st,online,cancelled,trk74904969,7,freeship,google,927.66
+ord200112,2023-01-01,c81366,monitor,1,410.6,423 main st,online,cancelled,trk17062206,2,winter15,referral,410.6
+ord200113,2024-01-17,c65905,laptop,5,190.08,605 main st,cash,shipped,trk73954365,9,freeship,instagram,950.4
+ord200114,2025-01-27,c77272,monitor,5,498.48,115 main st,online,pending,trk29708128,8,save10,google,2492.4
+ord200115,2023-11-27,c32580,phone,5,374.99,122 main st,online,shipped,trk23670394,9,save10,facebook,1874.95
+ord200116,2023-03-19,c47761,printer,4,291.35,109 main st,credit card,cancelled,trk66669207,6,winter15,facebook,1165.4
+ord200117,2023-03-08,c49187,tablet,1,535.5,593 main st,gift card,cancelled,trk81888598,5,winter15,referral,535.5
+ord200118,2023-10-09,c27898,printer,5,502.71,807 main st,gift card,shipped,trk61957665,7,freeship,google,2513.55
+ord200119,2025-06-11,c14683,desk,2,534.67,187 main st,debit card,shipped,trk47373682,7,freeship,referral,1069.34
+ord200120,2023-04-11,c58108,tablet,4,629.34,986 main st,cash,cancelled,trk66218053,4,winter15,instagram,2517.36
+ord200121,2023-11-30,c89822,desk,1,410.78,673 main st,cash,cancelled,trk24138598,1,freeship,instagram,410.78
+ord200122,2024-04-15,c96787,laptop,2,533.02,588 main st,gift card,shipped,trk30422853,2,freeship,facebook,1066.04
+ord200123,2023-07-06,c86064,desk,3,278.04,727 main st,online,delivered,trk62182901,5,freeship,instagram,834.12
+ord200124,2024-07-28,c97148,printer,4,283.79,563 main st,online,pending,trk85321126,8,freeship,google,1135.16
+ord200125,2024-11-06,c91099,phone,2,512.65,758 main st,credit card,shipped,trk81846174,5,save10,email,1025.3
+ord200126,2025-05-03,c55606,desk,4,275.5,353 main st,gift card,shipped,trk68250319,8,freeship,google,1102.0
+ord200127,2023-08-10,c71486,desk,3,469.32,365 main st,debit card,shipped,trk73929833,3,freeship,google,1407.96
+ord200128,2023-02-17,c86408,tablet,4,21.07,244 main st,gift card,delivered,trk41432648,4,freeship,google,84.28
+ord200129,2023-10-27,c52751,laptop,4,263.93,427 main st,debit card,shipped,trk72481234,4,freeship,facebook,1055.72
+ord200130,2025-01-22,c29059,desk,3,501.3,513 main st,online,cancelled,trk88360704,3,winter15,facebook,1503.9
+ord200131,2023-01-08,c72862,tablet,1,84.8,606 main st,gift card,pending,trk51648833,5,freeship,instagram,84.8
+ord200132,2023-03-28,c96257,tablet,4,450.75,583 main st,credit card,shipped,trk13137948,6,winter15,email,1803.0
+ord200133,2025-06-20,c87432,chair,4,302.05,636 main st,debit card,cancelled,trk68969625,6,save10,google,1208.2
+ord200134,2025-06-23,c16253,laptop,2,199.7,583 main st,cash,pending,trk17354894,4,freeship,email,399.4
+ord200135,2023-08-04,c79909,printer,2,68.81,642 main st,gift card,shipped,trk86742257,5,save10,referral,137.62
+ord200136,2024-04-27,c73370,laptop,1,44.35,595 main st,gift card,cancelled,trk67820278,1,save10,instagram,44.35
+ord200137,2024-11-26,c50682,monitor,2,250.98,598 main st,credit card,delivered,trk12242337,5,freeship,google,501.96
+ord200138,2023-12-21,c21905,tablet,1,298.06,478 main st,debit card,pending,trk31863841,3,winter15,google,298.06
+ord200139,2023-04-10,c61440,phone,1,583.9,714 main st,cash,returned,trk33114521,1,freeship,email,583.9
+ord200140,2025-05-31,c33110,chair,3,528.14,388 main st,online,delivered,trk38624225,3,freeship,email,1584.42
+ord200141,2023-11-18,c80004,printer,3,684.14,151 main st,cash,cancelled,trk66230753,3,winter15,instagram,2052.42
+ord200142,2023-09-06,c86374,desk,5,272.77,573 main st,cash,pending,trk79451491,7,winter15,email,1363.85
+ord200143,2024-06-13,c66521,chair,4,400.07,933 main st,online,shipped,trk34654244,5,freeship,referral,1600.28
+ord200144,2023-08-04,c63365,desk,5,219.78,895 main st,credit card,pending,trk80100887,8,freeship,facebook,1098.9
+ord200145,2024-03-02,c85929,printer,3,146.91,798 main st,credit card,delivered,trk29318610,6,freeship,google,440.73
+ord200146,2025-04-30,c84645,tablet,2,411.49,404 main st,credit card,returned,trk68893369,4,freeship,instagram,822.98
+ord200147,2025-05-06,c46316,laptop,2,465.18,893 main st,credit card,cancelled,trk16196000,2,save10,google,930.36
+ord200148,2024-12-15,c35100,phone,2,319.91,139 main st,credit card,cancelled,trk56853491,3,winter15,google,639.82
+ord200149,2023-12-27,c39671,laptop,1,217.56,174 main st,debit card,delivered,trk47153818,3,freeship,facebook,217.56
+ord200150,2023-12-13,c25503,phone,2,105.57,981 main st,debit card,returned,trk29878837,5,winter15,google,211.14
+ord200151,2023-12-01,c32960,printer,5,444.76,947 main st,debit card,returned,trk91226500,7,freeship,email,2223.8
+ord200152,2025-01-02,c77736,chair,2,399.04,659 main st,cash,cancelled,trk90329250,3,freeship,referral,798.08
+ord200153,2024-12-18,c71570,chair,4,534.48,437 main st,online,returned,trk95992269,9,winter15,instagram,2137.92
+ord200154,2023-07-20,c73587,phone,4,408.21,727 main st,credit card,pending,trk13955543,9,freeship,instagram,1632.84
+ord200155,2023-02-27,c62740,phone,1,424.4,446 main st,online,shipped,trk20706408,6,winter15,referral,424.4
+ord200156,2024-11-08,c58808,chair,2,269.83,651 main st,online,delivered,trk24451893,4,save10,email,539.66
+ord200157,2025-02-21,c50422,monitor,2,564.58,636 main st,online,returned,trk71227815,4,winter15,facebook,1129.16
+ord200158,2024-05-16,c23334,tablet,1,331.06,737 main st,credit card,pending,trk46335144,5,winter15,instagram,331.06
+ord200159,2023-10-31,c48965,printer,1,299.35,819 main st,credit card,cancelled,trk50921780,5,winter15,email,299.35
+ord200160,2023-02-17,c38669,monitor,4,101.32,240 main st,cash,pending,trk81738254,7,freeship,referral,405.28
+ord200161,2024-03-29,c35091,monitor,1,211.14,513 main st,credit card,cancelled,trk53784452,1,save10,facebook,211.14
+ord200162,2023-07-27,c82313,chair,3,65.86,917 main st,online,pending,trk79854624,8,winter15,google,197.58
+ord200163,2025-06-24,c99589,tablet,1,641.39,277 main st,online,cancelled,trk16695001,1,freeship,referral,641.39
+ord200164,2023-12-28,c70566,desk,5,536.58,667 main st,gift card,pending,trk49673411,5,save10,google,2682.9
+ord200165,2024-09-14,c60355,monitor,2,500.29,226 main st,online,returned,trk30155194,7,winter15,google,1000.58
+ord200166,2025-03-04,c28889,chair,3,86.29,565 main st,cash,delivered,trk23791726,6,winter15,instagram,258.87
+ord200167,2023-05-27,c88304,chair,2,384.14,219 main st,online,returned,trk44268941,2,winter15,email,768.28
+ord200168,2025-01-04,c49517,printer,1,594.96,878 main st,cash,returned,trk78551375,6,freeship,facebook,594.96
+ord200169,2024-04-07,c35785,printer,1,427.82,732 main st,online,delivered,trk78923089,2,winter15,email,427.82
+ord200170,2025-04-04,c80223,desk,4,662.94,535 main st,cash,cancelled,trk68632951,8,save10,instagram,2651.76
+ord200171,2023-08-15,c20448,tablet,2,148.22,336 main st,credit card,delivered,trk67379895,7,winter15,instagram,296.44
+ord200172,2025-04-06,c34134,printer,1,254.12,365 main st,online,delivered,trk43074303,1,winter15,email,254.12
+ord200173,2024-03-24,c95901,phone,3,664.46,806 main st,online,delivered,trk56989066,4,freeship,google,1993.38
+ord200174,2024-04-16,c51145,printer,4,600.81,790 main st,debit card,delivered,trk59154274,9,save10,email,2403.24
+ord200175,2025-02-08,c78170,chair,5,68.34,332 main st,debit card,pending,trk71410605,6,winter15,referral,341.7
+ord200176,2025-06-28,c80151,tablet,4,430.83,553 main st,gift card,pending,trk88251529,8,winter15,referral,1723.32
+ord200177,2023-08-05,c55632,chair,5,431.69,354 main st,credit card,pending,trk13003066,10,freeship,facebook,2158.45
+ord200178,2024-04-11,c53070,chair,4,512.06,283 main st,online,delivered,trk49791755,5,save10,google,2048.24
+ord200179,2024-11-24,c27401,laptop,3,539.91,500 main st,credit card,delivered,trk14332053,8,freeship,email,1619.73
+ord200180,2023-03-18,c87216,tablet,5,316.07,970 main st,cash,returned,trk18713727,10,freeship,google,1580.35
+ord200181,2024-08-31,c38966,printer,5,404.39,247 main st,online,shipped,trk17205146,10,freeship,referral,2021.95
+ord200182,2025-03-19,c16612,desk,1,600.54,596 main st,debit card,pending,trk96188223,4,winter15,google,600.54
+ord200183,2024-04-18,c39246,monitor,5,186.28,258 main st,debit card,delivered,trk16658182,8,save10,email,931.4
+ord200184,2024-04-04,c65180,tablet,4,214.54,231 main st,gift card,cancelled,trk39255469,7,freeship,referral,858.16
+ord200185,2025-02-02,c46877,laptop,1,210.7,572 main st,online,shipped,trk96935978,2,winter15,referral,210.7
+ord200186,2023-12-07,c30334,phone,2,133.55,322 main st,cash,pending,trk66388885,7,freeship,facebook,267.1
+ord200187,2023-02-08,c21227,chair,1,590.87,689 main st,gift card,returned,trk79129657,6,freeship,referral,590.87
+ord200188,2025-03-15,c97715,chair,2,363.91,927 main st,gift card,shipped,trk19515949,2,freeship,referral,727.82
+ord200189,2023-07-05,c48939,printer,5,429.45,597 main st,gift card,cancelled,trk62786764,5,winter15,email,2147.25
+ord200190,2024-08-31,c35483,printer,3,223.7,725 main st,cash,returned,trk79638203,3,save10,email,671.1
+ord200191,2025-03-08,c51494,laptop,2,488.87,505 main st,online,cancelled,trk58520306,4,freeship,google,977.74
+ord200192,2023-08-11,c58410,desk,1,645.46,151 main st,gift card,cancelled,trk19749672,5,save10,google,645.46
+ord200193,2023-07-21,c11644,printer,1,46.66,429 main st,cash,cancelled,trk81320339,6,freeship,google,46.66
+ord200194,2024-06-08,c53501,monitor,1,249.57,899 main st,cash,shipped,trk90144892,3,freeship,google,249.57
+ord200195,2024-04-22,c63619,chair,3,619.21,801 main st,debit card,cancelled,trk65385674,6,freeship,email,1857.63
+ord200196,2025-01-24,c40882,desk,4,217.13,719 main st,cash,delivered,trk64165503,8,winter15,email,868.52
+ord200197,2023-08-27,c80135,laptop,5,221.51,723 main st,cash,returned,trk95222269,5,winter15,referral,1107.55
+ord200198,2024-06-11,c37594,laptop,4,340.3,926 main st,cash,cancelled,trk94405162,8,save10,referral,1361.2
+ord200199,2025-01-23,c87524,phone,1,625.0,358 main st,online,returned,trk21114341,5,winter15,google,625.0
+ord200200,2025-06-07,c97681,tablet,5,433.26,895 main st,credit card,delivered,trk37531040,9,save10,google,2166.3
+ord200201,2023-06-18,c10126,monitor,2,674.9,146 main st,online,shipped,trk75607531,4,save10,facebook,1349.8
+ord200202,2025-02-06,c36938,monitor,3,253.98,636 main st,credit card,cancelled,trk52522904,3,freeship,email,761.94
+ord200203,2025-01-21,c99173,printer,3,356.84,172 main st,online,shipped,trk89849342,5,save10,instagram,1070.52
+ord200204,2023-09-05,c99775,laptop,4,413.71,478 main st,gift card,cancelled,trk21638425,9,freeship,facebook,1654.84
+ord200205,2023-03-04,c19266,desk,3,147.39,609 main st,debit card,returned,trk58357269,3,freeship,email,442.17
+ord200206,2024-04-16,c31072,laptop,4,229.1,729 main st,gift card,returned,trk77172975,8,winter15,email,916.4
+ord200207,2025-03-18,c54595,phone,1,121.96,999 main st,debit card,delivered,trk44416659,3,freeship,google,121.96
+ord200208,2024-10-08,c87777,desk,2,408.32,597 main st,online,shipped,trk29003608,3,freeship,facebook,816.64
+ord200209,2023-08-29,c35854,tablet,5,187.97,706 main st,cash,returned,trk30615168,9,save10,google,939.85
+ord200210,2024-12-05,c93821,chair,3,358.48,513 main st,gift card,delivered,trk10658539,7,freeship,facebook,1075.44
+ord200211,2025-01-03,c54390,printer,3,193.58,185 main st,gift card,pending,trk83853742,7,freeship,email,580.74
+ord200212,2023-06-20,c53215,monitor,1,265.38,367 main st,credit card,cancelled,trk34751835,6,winter15,email,265.38
+ord200213,2023-04-20,c71122,laptop,1,634.4,317 main st,cash,cancelled,trk54757882,6,save10,email,634.4
+ord200214,2024-08-21,c29483,desk,4,305.72,673 main st,online,delivered,trk89423603,5,freeship,facebook,1222.88
+ord200215,2023-08-10,c26767,printer,1,303.6,432 main st,cash,shipped,trk24585307,5,freeship,facebook,303.6
+ord200216,2025-04-15,c70492,monitor,4,496.0,811 main st,online,cancelled,trk84625405,8,winter15,google,1984.0
+ord200217,2024-05-20,c61549,desk,4,321.51,908 main st,cash,returned,trk65596914,9,freeship,google,1286.04
+ord200218,2023-04-28,c11665,tablet,3,112.46,882 main st,gift card,shipped,trk10993930,6,save10,instagram,337.38
+ord200219,2025-05-02,c48946,laptop,5,61.97,457 main st,cash,delivered,trk99387220,6,save10,email,309.85
+ord200220,2023-07-18,c79506,laptop,2,373.17,497 main st,credit card,pending,trk95188748,6,save10,referral,746.34
+ord200221,2024-02-23,c93473,tablet,5,639.37,552 main st,debit card,pending,trk50003989,6,save10,google,3196.85
+ord200222,2023-05-04,c43124,chair,4,693.36,931 main st,online,shipped,trk17293348,8,freeship,instagram,2773.44
+ord200223,2024-09-11,c22783,phone,4,692.91,673 main st,credit card,pending,trk55009149,9,save10,instagram,2771.64
+ord200224,2023-09-23,c18567,printer,4,91.46,507 main st,cash,cancelled,trk17554673,9,save10,referral,365.84
+ord200225,2024-03-13,c99879,phone,3,273.96,692 main st,debit card,returned,trk50246700,8,save10,google,821.88
+ord200226,2025-06-27,c31501,desk,3,588.05,242 main st,gift card,delivered,trk93063929,8,freeship,instagram,1764.15
+ord200227,2023-11-02,c93220,monitor,2,365.17,353 main st,online,cancelled,trk89023251,4,freeship,facebook,730.34
+ord200228,2023-05-17,c57867,chair,4,385.92,579 main st,credit card,cancelled,trk92055007,8,freeship,instagram,1543.68
+ord200229,2025-03-28,c62622,tablet,1,562.61,762 main st,credit card,delivered,trk70997648,3,winter15,facebook,562.61
+ord200230,2023-12-16,c94595,desk,4,61.91,948 main st,gift card,delivered,trk24497305,6,winter15,email,247.64
+ord200231,2023-11-05,c30955,phone,4,41.9,327 main st,gift card,pending,trk46898848,9,freeship,instagram,167.6
+ord200232,2023-05-19,c20731,printer,4,444.44,610 main st,debit card,cancelled,trk75568437,8,winter15,google,1777.76
+ord200233,2024-08-24,c30168,phone,3,311.33,146 main st,cash,cancelled,trk73699939,3,winter15,instagram,933.99
+ord200234,2024-11-26,c79842,printer,4,236.41,337 main st,debit card,pending,trk26957950,7,save10,google,945.64
+ord200235,2023-02-20,c32854,desk,1,65.45,815 main st,cash,pending,trk30009218,2,winter15,google,65.45
+ord200236,2023-01-01,c14847,monitor,1,318.81,562 main st,debit card,pending,trk39663243,3,winter15,email,318.81
+ord200237,2024-03-14,c88645,monitor,3,583.72,783 main st,credit card,shipped,trk74097570,5,freeship,facebook,1751.16
+ord200238,2024-12-13,c66149,desk,4,384.32,770 main st,credit card,pending,trk76307307,6,winter15,google,1537.28
+ord200239,2024-12-11,c20256,tablet,3,538.74,456 main st,online,shipped,trk71127943,6,freeship,email,1616.22
+ord200240,2023-07-12,c14983,tablet,1,17.24,255 main st,online,pending,trk93444157,2,freeship,instagram,17.24
+ord200241,2023-05-16,c20817,chair,5,615.67,407 main st,online,pending,trk44164590,6,save10,email,3078.35
+ord200242,2023-05-09,c94921,printer,2,219.1,134 main st,online,pending,trk97794327,4,save10,referral,438.2
+ord200243,2025-05-09,c54725,chair,2,144.66,506 main st,online,cancelled,trk30601940,7,freeship,google,289.32
+ord200244,2023-02-16,c98096,desk,2,317.77,838 main st,debit card,cancelled,trk51518631,4,winter15,facebook,635.54
+ord200245,2025-04-20,c12667,laptop,1,223.3,306 main st,online,returned,trk25390491,1,freeship,facebook,223.3
+ord200246,2024-08-30,c55354,desk,2,342.11,164 main st,gift card,shipped,trk15439493,2,winter15,instagram,684.22
+ord200247,2023-07-20,c14600,printer,2,220.9,785 main st,gift card,shipped,trk84984764,4,freeship,email,441.8
+ord200248,2023-07-02,c97187,laptop,1,670.54,471 main st,cash,shipped,trk62283713,6,freeship,referral,670.54
+ord200249,2024-02-07,c39106,printer,1,546.19,245 main st,cash,pending,trk35464433,5,freeship,referral,546.19
+ord200250,2023-04-05,c93379,desk,3,42.95,318 main st,gift card,returned,trk67954150,8,save10,email,128.85
+ord200251,2025-05-15,c93175,monitor,4,14.69,814 main st,cash,cancelled,trk32995144,9,freeship,email,58.76
+ord200252,2024-09-20,c19648,phone,4,668.36,821 main st,gift card,cancelled,trk51297879,5,freeship,facebook,2673.44
+ord200253,2024-03-23,c14891,chair,4,413.74,743 main st,gift card,returned,trk79471534,7,freeship,instagram,1654.96
+ord200254,2023-12-26,c10866,monitor,3,263.19,770 main st,online,delivered,trk34809583,5,freeship,instagram,789.57
+ord200255,2024-05-13,c47283,monitor,1,263.96,806 main st,gift card,returned,trk56235117,2,save10,google,263.96
+ord200256,2025-06-30,c94323,chair,5,75.81,463 main st,gift card,returned,trk22663277,10,winter15,instagram,379.05
+ord200257,2024-04-23,c89732,phone,1,406.22,712 main st,credit card,cancelled,trk41059233,5,save10,referral,406.22
+ord200258,2024-02-26,c87764,tablet,2,103.41,294 main st,online,shipped,trk94082469,2,freeship,referral,206.82
+ord200259,2023-06-11,c20977,chair,4,435.12,636 main st,credit card,delivered,trk54991561,9,save10,instagram,1740.48
+ord200260,2023-05-17,c12245,monitor,2,407.79,153 main st,debit card,shipped,trk22000463,3,freeship,google,815.58
+ord200261,2025-05-28,c68976,phone,5,173.65,460 main st,gift card,delivered,trk25491356,9,save10,email,868.25
+ord200262,2023-01-10,c69476,phone,4,249.07,642 main st,credit card,returned,trk65869386,5,winter15,referral,996.28
+ord200263,2023-03-25,c71040,phone,4,434.85,250 main st,credit card,pending,trk41397604,4,winter15,google,1739.4
+ord200264,2024-08-03,c71035,tablet,1,436.77,977 main st,cash,returned,trk19599578,5,freeship,google,436.77
+ord200265,2023-12-22,c20752,printer,1,572.13,150 main st,debit card,cancelled,trk22298450,4,save10,google,572.13
+ord200266,2024-06-08,c38840,chair,4,583.07,589 main st,credit card,cancelled,trk48484633,6,freeship,referral,2332.28
+ord200267,2025-04-17,c84480,chair,5,468.51,803 main st,debit card,delivered,trk62361867,9,freeship,facebook,2342.55
+ord200268,2023-08-11,c37032,phone,2,423.88,655 main st,debit card,delivered,trk48639226,7,save10,referral,847.76
+ord200269,2023-11-25,c48942,tablet,4,663.67,129 main st,credit card,pending,trk29355120,7,freeship,google,2654.68
+ord200270,2023-06-04,c13540,printer,4,309.91,127 main st,debit card,shipped,trk81087373,5,winter15,google,1239.64
+ord200271,2023-03-28,c59572,monitor,1,542.07,791 main st,cash,shipped,trk16792991,6,winter15,referral,542.07
+ord200272,2023-09-19,c29758,chair,2,399.32,119 main st,online,pending,trk12990043,6,winter15,instagram,798.64
+ord200273,2024-10-27,c11849,tablet,2,238.25,974 main st,online,cancelled,trk91195261,7,freeship,email,476.5
+ord200274,2023-02-04,c50967,phone,2,182.4,884 main st,gift card,cancelled,trk65300814,5,save10,referral,364.8
+ord200275,2023-11-04,c80735,chair,2,65.07,360 main st,credit card,cancelled,trk99880231,4,save10,google,130.14
+ord200276,2025-03-29,c99050,printer,2,600.57,654 main st,debit card,returned,trk56927089,3,winter15,instagram,1201.14
+ord200277,2024-09-09,c11210,chair,5,90.92,910 main st,credit card,delivered,trk44929965,9,save10,facebook,454.6
+ord200278,2024-11-18,c46015,laptop,5,362.46,299 main st,cash,delivered,trk46598430,6,freeship,instagram,1812.3
+ord200279,2023-10-20,c69167,chair,3,55.01,263 main st,online,pending,trk12425655,7,winter15,email,165.03
+ord200280,2023-03-27,c55388,tablet,3,404.62,740 main st,gift card,delivered,trk75741001,6,freeship,instagram,1213.86
+ord200281,2023-07-27,c87181,desk,4,654.79,195 main st,cash,pending,trk60093390,9,freeship,referral,2619.16
+ord200282,2025-04-22,c30411,printer,4,637.79,375 main st,gift card,cancelled,trk71810536,9,freeship,google,2551.16
+ord200283,2025-02-28,c39638,laptop,4,540.33,990 main st,cash,shipped,trk69745608,6,freeship,google,2161.32
+ord200284,2023-02-16,c27203,laptop,5,208.17,516 main st,credit card,returned,trk22023906,6,save10,facebook,1040.85
+ord200285,2025-06-10,c67583,phone,1,338.31,974 main st,online,delivered,trk93281700,3,freeship,google,338.31
+ord200286,2025-04-07,c70554,monitor,3,139.45,187 main st,gift card,returned,trk61086952,8,winter15,google,418.35
+ord200287,2023-11-24,c70437,chair,4,655.18,630 main st,online,shipped,trk26628830,5,freeship,facebook,2620.72
+ord200288,2023-03-12,c97643,laptop,4,512.75,537 main st,debit card,returned,trk60831391,8,winter15,google,2051.0
+ord200289,2023-07-26,c17136,chair,4,160.49,333 main st,credit card,shipped,trk55362541,8,winter15,referral,641.96
+ord200290,2023-05-05,c24901,chair,3,99.9,258 main st,cash,delivered,trk14029489,8,freeship,facebook,299.7
+ord200291,2024-05-12,c61521,phone,2,345.01,670 main st,credit card,delivered,trk93676567,6,freeship,google,690.02
+ord200292,2025-01-15,c39639,monitor,1,65.95,185 main st,credit card,delivered,trk31042152,5,freeship,facebook,65.95
+ord200293,2023-02-16,c33220,tablet,4,463.04,564 main st,gift card,returned,trk40450219,9,freeship,instagram,1852.16
+ord200294,2025-04-01,c65414,phone,2,297.71,208 main st,online,shipped,trk67562517,7,save10,referral,595.42
+ord200295,2023-01-25,c49009,printer,5,107.48,278 main st,debit card,cancelled,trk46285799,9,freeship,email,537.4
+ord200296,2024-06-19,c48453,desk,5,638.8,434 main st,debit card,cancelled,trk52110494,10,winter15,referral,3194.0
+ord200297,2023-02-22,c68078,desk,2,493.88,252 main st,credit card,returned,trk64862812,7,save10,instagram,987.76
+ord200298,2023-12-19,c19402,printer,4,301.17,267 main st,online,cancelled,trk97825212,6,freeship,email,1204.68
+ord200299,2024-01-20,c30711,monitor,1,278.66,856 main st,gift card,cancelled,trk42696593,2,freeship,instagram,278.66
+ord200300,2024-09-02,c39000,phone,1,287.46,894 main st,debit card,returned,trk33753945,3,freeship,facebook,287.46
+ord200301,2023-05-11,c31105,chair,1,583.99,726 main st,cash,cancelled,trk40149095,2,save10,email,583.99
+ord200302,2023-05-16,c29432,chair,3,468.74,121 main st,cash,pending,trk44142517,4,freeship,instagram,1406.22
+ord200303,2024-12-07,c48531,tablet,1,30.54,368 main st,debit card,returned,trk95462192,1,freeship,google,30.54
+ord200304,2024-10-18,c86762,monitor,5,408.73,326 main st,gift card,delivered,trk75686292,10,freeship,instagram,2043.65
+ord200305,2023-11-25,c63822,laptop,4,126.89,235 main st,cash,pending,trk59353216,9,freeship,instagram,507.56
+ord200306,2024-06-07,c70495,printer,2,57.07,238 main st,debit card,returned,trk65511225,3,save10,instagram,114.14
+ord200307,2023-07-01,c92407,laptop,3,557.41,135 main st,online,delivered,trk11755610,4,freeship,email,1672.23
+ord200308,2023-12-11,c75888,printer,3,448.9,790 main st,debit card,returned,trk98467398,7,save10,instagram,1346.7
+ord200309,2023-10-03,c63153,chair,4,549.76,625 main st,debit card,delivered,trk38033305,4,freeship,facebook,2199.04
+ord200310,2024-02-24,c85863,printer,3,132.48,968 main st,online,shipped,trk16094218,4,freeship,referral,397.44
+ord200311,2025-05-17,c71698,desk,5,489.37,274 main st,online,returned,trk34786818,8,freeship,instagram,2446.85
+ord200312,2025-05-24,c35397,printer,5,66.31,579 main st,gift card,pending,trk64742535,7,freeship,referral,331.55
+ord200313,2023-07-09,c67687,chair,2,434.3,978 main st,cash,delivered,trk22838735,7,save10,instagram,868.6
+ord200314,2023-10-04,c29931,desk,4,153.09,540 main st,online,delivered,trk48712417,4,freeship,referral,612.36
+ord200315,2025-05-12,c59139,tablet,5,91.67,301 main st,online,cancelled,trk45507090,9,freeship,email,458.35
+ord200316,2023-10-02,c66078,desk,4,275.28,101 main st,gift card,shipped,trk86474559,9,winter15,facebook,1101.12
+ord200317,2023-04-10,c88370,monitor,2,139.95,339 main st,online,returned,trk22575151,5,freeship,instagram,279.9
+ord200318,2024-07-27,c93375,chair,3,148.72,317 main st,debit card,cancelled,trk95706967,7,save10,google,446.16
+ord200319,2023-12-02,c53049,laptop,2,563.06,413 main st,cash,returned,trk48974907,6,freeship,instagram,1126.12
+ord200320,2024-12-19,c55590,printer,1,625.51,772 main st,credit card,shipped,trk48792951,1,freeship,facebook,625.51
+ord200321,2023-08-09,c47086,phone,4,152.29,135 main st,debit card,cancelled,trk44194358,6,winter15,google,609.16
+ord200322,2024-06-14,c48646,phone,5,231.82,339 main st,debit card,delivered,trk18233748,6,save10,facebook,1159.1
+ord200323,2025-01-26,c29416,laptop,1,150.17,414 main st,debit card,returned,trk63820842,1,save10,referral,150.17
+ord200324,2024-06-13,c13525,tablet,3,70.93,847 main st,debit card,returned,trk70193221,5,freeship,referral,212.79
+ord200325,2023-06-29,c53545,desk,3,361.39,665 main st,credit card,shipped,trk61123177,8,freeship,referral,1084.17
+ord200327,2023-07-25,c17302,phone,1,359.99,385 main st,gift card,cancelled,trk43940016,5,save10,email,359.99
+ord200329,2024-12-25,c88371,chair,4,283.16,306 main st,credit card,shipped,trk63224811,6,freeship,google,1132.64
+ord200330,2024-06-02,c38068,desk,5,260.53,532 main st,gift card,pending,trk54059198,5,save10,instagram,1302.65
+ord200331,2023-04-15,c78724,printer,3,422.13,187 main st,online,delivered,trk25703134,7,save10,facebook,1266.39
+ord200332,2024-07-03,c26163,desk,5,125.02,607 main st,debit card,pending,trk67499316,9,save10,google,625.1
+ord200333,2024-04-16,c87124,phone,1,198.51,818 main st,credit card,returned,trk52086740,5,winter15,instagram,198.51
+ord200334,2024-03-26,c90348,chair,4,224.75,728 main st,online,delivered,trk20635777,7,winter15,facebook,899.0
+ord200335,2025-03-03,c58721,tablet,3,205.86,978 main st,gift card,shipped,trk34801199,4,freeship,email,617.58
+ord200336,2023-12-29,c88174,laptop,1,18.2,441 main st,debit card,pending,trk10143345,4,save10,instagram,18.2
+ord200337,2023-05-29,c77763,tablet,3,502.77,599 main st,debit card,returned,trk66980447,8,winter15,email,1508.31
+ord200338,2023-11-08,c53627,phone,5,305.49,704 main st,debit card,shipped,trk64112352,10,freeship,referral,1527.45
+ord200339,2024-04-10,c84563,printer,2,236.33,398 main st,online,pending,trk62422797,3,save10,instagram,472.66
+ord200340,2023-04-23,c76207,laptop,5,521.25,826 main st,cash,cancelled,trk25569378,8,freeship,email,2606.25
+ord200341,2024-09-23,c94671,tablet,1,167.15,293 main st,gift card,shipped,trk61357272,5,winter15,email,167.15
+ord200342,2025-06-24,c69994,monitor,5,466.42,619 main st,gift card,returned,trk95935805,5,freeship,referral,2332.1
+ord200343,2023-02-26,c64638,printer,1,527.57,919 main st,debit card,pending,trk64087938,3,freeship,facebook,527.57
+ord200344,2025-03-06,c95623,tablet,3,623.34,248 main st,online,cancelled,trk67558189,3,save10,instagram,1870.02
+ord200345,2023-12-07,c24751,tablet,5,501.26,259 main st,gift card,shipped,trk37285406,10,freeship,referral,2506.3
+ord200346,2024-12-06,c31764,tablet,1,655.09,876 main st,cash,pending,trk44680433,6,freeship,referral,655.09
+ord200347,2024-02-03,c83556,printer,4,264.79,380 main st,credit card,pending,trk21109187,5,save10,google,1059.16
+ord200348,2024-03-13,c24369,laptop,3,359.73,885 main st,debit card,returned,trk72633998,7,freeship,email,1079.19
+ord200349,2023-11-30,c39648,chair,1,465.33,824 main st,gift card,delivered,trk56016905,2,freeship,google,465.33
+ord200350,2023-06-03,c13296,chair,2,54.41,495 main st,online,shipped,trk60127216,6,freeship,instagram,108.82
+ord200351,2025-02-15,c94248,laptop,1,64.66,494 main st,debit card,delivered,trk89406816,4,freeship,instagram,64.66
+ord200352,2023-08-31,c26637,chair,5,173.96,995 main st,debit card,pending,trk59546992,8,winter15,instagram,869.8
+ord200353,2025-03-28,c16012,tablet,1,630.82,171 main st,online,delivered,trk15195225,5,freeship,google,630.82
+ord200354,2023-07-11,c31772,phone,1,693.41,992 main st,debit card,shipped,trk11970357,4,freeship,instagram,693.41
+ord200355,2025-06-03,c18353,tablet,3,433.33,677 main st,credit card,cancelled,trk78766533,4,freeship,referral,1299.99
+ord200356,2023-05-06,c26966,printer,5,374.58,907 main st,gift card,cancelled,trk83889574,10,freeship,instagram,1872.9
+ord200357,2023-07-08,c74982,laptop,5,408.56,398 main st,debit card,delivered,trk98700702,8,freeship,instagram,2042.8
+ord200358,2024-04-07,c70633,tablet,2,183.67,747 main st,online,cancelled,trk82540521,3,save10,google,367.34
+ord200359,2023-06-09,c95643,desk,4,606.57,303 main st,debit card,delivered,trk23286689,5,winter15,referral,2426.28
+ord200360,2024-06-06,c53810,phone,4,589.57,779 main st,cash,pending,trk34630612,8,freeship,instagram,2358.28
+ord200362,2023-06-27,c53697,monitor,4,206.84,312 main st,cash,cancelled,trk60476656,5,winter15,instagram,827.36
+ord200363,2024-05-24,c31668,laptop,5,113.87,871 main st,credit card,pending,trk42584392,6,save10,email,569.35
+ord200364,2023-11-24,c85282,phone,5,628.74,740 main st,cash,cancelled,trk86767206,9,freeship,facebook,3143.7
+ord200365,2025-02-14,c56796,phone,1,678.38,607 main st,credit card,cancelled,trk74263180,4,save10,referral,678.38
+ord200366,2023-02-10,c95213,printer,3,602.24,603 main st,debit card,pending,trk40630538,8,freeship,referral,1806.72
+ord200368,2023-05-01,c85322,monitor,3,271.02,403 main st,credit card,cancelled,trk89728869,6,freeship,google,813.06
+ord200369,2024-12-22,c43545,monitor,5,375.25,216 main st,gift card,pending,trk73937402,9,save10,email,1876.25
+ord200370,2025-05-03,c80649,phone,1,312.11,870 main st,online,cancelled,trk41143313,4,winter15,facebook,312.11
+ord200371,2023-01-05,c59752,phone,5,307.76,179 main st,gift card,pending,trk82229639,9,freeship,google,1538.8
+ord200372,2025-02-14,c53645,chair,3,483.53,166 main st,cash,returned,trk12123939,4,freeship,referral,1450.59
+ord200373,2023-01-02,c60178,laptop,3,341.15,969 main st,cash,pending,trk84505143,4,freeship,instagram,1023.45
+ord200374,2024-09-16,c20286,monitor,1,571.9,129 main st,gift card,pending,trk67648338,1,winter15,instagram,571.9
+ord200375,2025-01-16,c87547,monitor,4,95.03,400 main st,online,shipped,trk71027262,8,freeship,facebook,380.12
+ord200376,2023-08-24,c64549,monitor,5,201.22,341 main st,debit card,pending,trk20788231,6,freeship,facebook,1006.1
+ord200377,2024-07-22,c24884,monitor,1,260.26,625 main st,online,pending,trk44538419,5,winter15,instagram,260.26
+ord200378,2024-02-01,c62666,chair,5,64.5,148 main st,credit card,pending,trk91029390,8,winter15,instagram,322.5
+ord200379,2024-09-21,c47284,phone,3,297.67,500 main st,online,shipped,trk85756094,6,freeship,google,893.01
+ord200380,2024-04-20,c35355,printer,4,331.9,127 main st,cash,pending,trk52935059,5,save10,instagram,1327.6
+ord200381,2023-06-07,c29467,chair,1,191.76,223 main st,credit card,returned,trk98103385,1,freeship,instagram,191.76
+ord200382,2025-01-30,c26718,printer,4,263.09,272 main st,debit card,shipped,trk91702525,8,save10,google,1052.36
+ord200383,2023-01-20,c18944,chair,4,393.8,837 main st,credit card,pending,trk45275439,7,save10,email,1575.2
+ord200384,2024-11-24,c35628,chair,3,553.57,147 main st,credit card,returned,trk45688220,4,freeship,facebook,1660.71
+ord200385,2023-10-31,c56851,chair,5,191.63,752 main st,gift card,delivered,trk65290904,6,freeship,facebook,958.15
+ord200386,2023-04-28,c12421,tablet,1,93.02,373 main st,online,returned,trk32588504,4,freeship,email,93.02
+ord200387,2024-06-27,c25316,printer,2,39.53,904 main st,credit card,shipped,trk55423551,3,winter15,google,79.06
+ord200388,2023-12-28,c22657,printer,3,633.97,152 main st,cash,pending,trk49157047,7,winter15,facebook,1901.91
+ord200389,2023-12-17,c29703,desk,4,697.5,558 main st,cash,shipped,trk40543461,7,freeship,referral,2790.0
+ord200390,2023-07-14,c55996,printer,5,508.69,885 main st,cash,delivered,trk30547638,10,freeship,google,2543.45
+ord200391,2025-01-16,c60037,laptop,2,527.46,516 main st,debit card,cancelled,trk82009557,3,freeship,referral,1054.92
+ord200392,2024-02-28,c95100,phone,1,627.2,197 main st,online,delivered,trk47366265,1,winter15,email,627.2
+ord200393,2024-07-14,c39906,printer,1,75.01,921 main st,credit card,returned,trk24632134,3,freeship,google,75.01
+ord200394,2023-07-05,c70148,desk,5,529.55,359 main st,gift card,shipped,trk34848650,10,freeship,facebook,2647.75
+ord200395,2025-04-25,c30010,phone,3,127.41,830 main st,gift card,delivered,trk35386084,7,save10,referral,382.23
+ord200396,2023-12-01,c99217,tablet,5,287.13,778 main st,online,shipped,trk82004594,10,save10,email,1435.65
+ord200397,2023-09-28,c30184,monitor,1,427.06,987 main st,online,cancelled,trk86674704,1,winter15,referral,427.06
+ord200398,2024-09-04,c50275,phone,5,53.93,729 main st,gift card,shipped,trk98925264,7,save10,instagram,269.65
+ord200399,2024-01-07,c64641,tablet,5,423.93,319 main st,debit card,returned,trk32012588,5,freeship,facebook,2119.65
+ord200400,2024-09-28,c56266,desk,4,160.22,304 main st,debit card,returned,trk60088901,9,winter15,instagram,640.88
+ord200401,2025-04-09,c98635,printer,1,538.68,197 main st,debit card,returned,trk14225465,6,freeship,referral,538.68
+ord200402,2023-04-09,c83026,printer,5,337.38,858 main st,gift card,shipped,trk79746259,5,freeship,referral,1686.9
+ord200403,2024-11-10,c28893,tablet,1,620.21,740 main st,online,returned,trk98333066,1,freeship,referral,620.21
+ord200404,2023-03-09,c45482,monitor,2,99.1,440 main st,cash,delivered,trk54571699,6,freeship,instagram,198.2
+ord200405,2025-01-26,c97774,monitor,4,451.97,603 main st,online,cancelled,trk64664424,7,winter15,email,1807.88
+ord200406,2023-12-10,c11657,tablet,4,66.1,572 main st,cash,returned,trk50284486,9,winter15,google,264.4
+ord200407,2023-08-13,c85993,tablet,4,547.32,250 main st,cash,returned,trk72547640,8,freeship,instagram,2189.28
+ord200408,2025-01-01,c11906,printer,3,412.53,536 main st,online,pending,trk31140158,6,winter15,google,1237.59
+ord200409,2023-06-28,c45187,desk,5,84.13,767 main st,online,delivered,trk12320793,9,save10,google,420.65
+ord200410,2024-01-18,c37375,tablet,2,518.23,184 main st,debit card,shipped,trk52470162,5,freeship,email,1036.46
+ord200411,2024-06-19,c66567,desk,2,39.51,981 main st,online,shipped,trk21174822,5,freeship,facebook,79.02
+ord200412,2025-04-11,c42451,tablet,5,133.01,246 main st,credit card,returned,trk31313343,10,freeship,facebook,665.05
+ord200413,2023-10-08,c13923,tablet,1,118.8,123 main st,online,delivered,trk87598790,6,save10,email,118.8
+ord200414,2025-05-04,c11829,desk,2,139.57,797 main st,cash,delivered,trk84229257,4,winter15,facebook,279.14
+ord200415,2025-04-06,c62169,chair,1,184.15,655 main st,gift card,shipped,trk64558985,5,freeship,facebook,184.15
+ord200416,2023-07-18,c20881,laptop,2,644.05,652 main st,gift card,cancelled,trk26263902,5,winter15,referral,1288.1
+ord200417,2023-10-24,c44492,laptop,5,55.41,954 main st,online,cancelled,trk51429869,5,freeship,google,277.05
+ord200418,2023-01-11,c74169,printer,1,310.93,862 main st,online,cancelled,trk66144809,3,freeship,facebook,310.93
+ord200419,2024-04-17,c70999,tablet,2,216.66,885 main st,debit card,pending,trk75644156,6,freeship,instagram,433.32
+ord200420,2024-11-29,c11921,phone,1,452.7,439 main st,debit card,shipped,trk91362635,5,freeship,instagram,452.7
+ord200421,2023-10-15,c50683,chair,2,288.21,769 main st,debit card,cancelled,trk53032122,5,freeship,email,576.42
+ord200422,2023-06-05,c76140,phone,4,206.6,914 main st,gift card,returned,trk25861469,6,winter15,referral,826.4
+ord200423,2024-07-20,c94311,printer,4,685.2,195 main st,gift card,cancelled,trk97308771,6,winter15,google,2740.8
+ord200424,2023-04-12,c49491,chair,5,22.94,339 main st,cash,pending,trk64012257,10,freeship,email,114.7
+ord200425,2023-03-09,c40648,laptop,2,301.88,488 main st,gift card,returned,trk25325993,5,winter15,email,603.76
+ord200426,2025-03-16,c40967,monitor,5,57.45,315 main st,cash,cancelled,trk24839296,10,freeship,facebook,287.25
+ord200427,2024-12-18,c25406,desk,1,161.24,379 main st,credit card,pending,trk70952564,3,winter15,instagram,161.24
+ord200428,2024-11-26,c77085,chair,4,262.58,895 main st,online,cancelled,trk57227640,8,winter15,email,1050.32
+ord200429,2024-12-19,c38126,printer,4,515.19,522 main st,credit card,pending,trk90838498,9,save10,facebook,2060.76
+ord200430,2023-06-07,c87448,phone,1,450.07,433 main st,gift card,shipped,trk44134016,6,freeship,google,450.07
+ord200431,2024-10-06,c62312,printer,1,52.54,651 main st,debit card,cancelled,trk59623037,6,winter15,facebook,52.54
+ord200432,2023-09-04,c58443,tablet,2,424.32,662 main st,credit card,returned,trk77163738,6,freeship,referral,848.64
+ord200433,2023-08-26,c36613,monitor,3,631.64,785 main st,credit card,returned,trk13282106,3,freeship,facebook,1894.92
+ord200434,2023-10-22,c73893,printer,5,327.68,384 main st,credit card,returned,trk85939879,6,freeship,facebook,1638.4
+ord200435,2023-05-27,c48601,printer,1,414.47,101 main st,debit card,returned,trk97868309,3,freeship,instagram,414.47
+ord200436,2023-02-11,c14568,laptop,4,221.33,651 main st,online,pending,trk73545796,5,freeship,google,885.32
+ord200437,2024-04-18,c63378,phone,1,512.39,955 main st,online,delivered,trk20863705,2,freeship,instagram,512.39
+ord200438,2025-01-03,c77800,tablet,3,459.34,436 main st,gift card,pending,trk27439574,3,save10,instagram,1378.02
+ord200439,2024-09-08,c91155,tablet,1,146.32,321 main st,online,shipped,trk36260319,4,winter15,facebook,146.32
+ord200440,2024-11-05,c60215,desk,4,83.6,978 main st,debit card,pending,trk31727767,4,save10,facebook,334.4
+ord200441,2023-12-13,c52915,printer,2,328.54,475 main st,gift card,returned,trk79466982,6,freeship,email,657.08
+ord200442,2024-05-06,c72588,chair,5,314.94,661 main st,cash,pending,trk43410829,8,save10,instagram,1574.7
+ord200443,2024-05-14,c61668,chair,2,69.64,813 main st,cash,returned,trk58970302,6,freeship,facebook,139.28
+ord200444,2024-06-08,c79508,printer,1,135.17,585 main st,online,shipped,trk61882353,6,freeship,instagram,135.17
+ord200445,2024-03-23,c94569,phone,1,487.21,227 main st,cash,delivered,trk31351770,3,save10,referral,487.21
+ord200446,2023-10-18,c89592,laptop,5,509.58,262 main st,online,delivered,trk49442402,6,freeship,instagram,2547.9
+ord200447,2024-04-07,c48207,printer,2,416.81,356 main st,cash,returned,trk45355655,2,freeship,facebook,833.62
+ord200448,2023-09-04,c16776,laptop,2,160.0,854 main st,cash,pending,trk12860600,4,save10,instagram,320.0
+ord200449,2024-08-26,c91518,tablet,3,253.05,286 main st,online,pending,trk48688724,3,freeship,instagram,759.15
+ord200450,2024-01-15,c36408,monitor,5,615.1,160 main st,gift card,returned,trk94023253,10,winter15,instagram,3075.5
+ord200451,2023-04-01,c14837,monitor,1,183.18,647 main st,debit card,cancelled,trk17501136,6,save10,email,183.18
+ord200452,2023-07-23,c36467,printer,1,75.78,581 main st,cash,pending,trk20863987,5,save10,google,75.78
+ord200453,2025-05-02,c15017,tablet,1,675.57,492 main st,cash,shipped,trk51241924,1,winter15,facebook,675.57
+ord200454,2024-11-27,c54759,laptop,1,109.29,686 main st,debit card,cancelled,trk75583042,5,freeship,google,109.29
+ord200455,2024-03-26,c58341,phone,1,639.83,874 main st,debit card,pending,trk32856728,2,save10,referral,639.83
+ord200456,2023-06-26,c94479,desk,5,62.81,259 main st,credit card,shipped,trk69089975,9,save10,facebook,314.05
+ord200457,2025-05-25,c50236,desk,4,615.83,545 main st,online,returned,trk67692578,4,winter15,instagram,2463.32
+ord200458,2024-07-02,c31412,monitor,4,510.58,196 main st,credit card,returned,trk61946127,7,winter15,email,2042.32
+ord200459,2024-07-24,c90142,desk,1,334.39,433 main st,credit card,returned,trk39717191,2,freeship,instagram,334.39
+ord200460,2024-10-06,c83548,laptop,1,144.25,474 main st,cash,returned,trk93822942,2,winter15,referral,144.25
+ord200461,2024-06-08,c29697,tablet,1,401.82,407 main st,credit card,shipped,trk47776482,5,freeship,google,401.82
+ord200462,2025-03-31,c22991,phone,1,252.68,731 main st,online,cancelled,trk32796086,1,freeship,referral,252.68
+ord200464,2023-03-14,c39176,tablet,4,434.42,739 main st,online,cancelled,trk71418686,6,freeship,google,1737.68
+ord200465,2024-02-26,c58773,printer,5,513.49,391 main st,gift card,cancelled,trk65438300,8,freeship,google,2567.45
+ord200466,2023-07-18,c37412,phone,1,432.47,895 main st,cash,delivered,trk97829604,4,freeship,referral,432.47
+ord200467,2024-08-30,c36492,desk,1,45.94,572 main st,cash,cancelled,trk44350440,2,winter15,email,45.94
+ord200468,2025-06-21,c90110,phone,1,418.36,998 main st,credit card,delivered,trk60203957,5,freeship,email,418.36
+ord200470,2023-09-29,c25149,tablet,4,263.62,672 main st,cash,shipped,trk33538608,5,save10,email,1054.48
+ord200471,2025-04-19,c52717,desk,5,551.27,395 main st,online,cancelled,trk27625571,7,freeship,referral,2756.35
+ord200472,2023-01-06,c60029,chair,3,508.12,796 main st,credit card,cancelled,trk86461316,8,freeship,referral,1524.36
+ord200473,2025-02-25,c28552,chair,2,14.93,449 main st,online,shipped,trk71597160,4,freeship,facebook,29.86
+ord200474,2023-11-15,c72293,printer,3,229.34,398 main st,credit card,shipped,trk84378003,6,save10,referral,688.02
+ord200475,2025-04-19,c29844,tablet,2,438.62,363 main st,cash,cancelled,trk91642337,3,save10,facebook,877.24
+ord200476,2024-01-15,c77872,phone,2,513.59,867 main st,online,returned,trk19292184,4,freeship,referral,1027.18
+ord200477,2025-03-05,c56564,phone,2,253.74,481 main st,online,shipped,trk13166044,5,save10,google,507.48
+ord200478,2024-11-01,c16758,tablet,3,62.77,914 main st,gift card,shipped,trk88544431,6,freeship,referral,188.31
+ord200479,2023-02-18,c87011,monitor,4,25.29,943 main st,credit card,pending,trk21429162,8,freeship,google,101.16
+ord200480,2023-06-16,c21147,chair,1,335.1,126 main st,debit card,pending,trk93171043,6,freeship,referral,335.1
+ord200481,2023-04-23,c94568,laptop,4,484.85,317 main st,debit card,delivered,trk58653915,5,winter15,referral,1939.4
+ord200482,2025-03-02,c35852,monitor,3,381.41,989 main st,online,pending,trk22302049,6,freeship,instagram,1144.23
+ord200483,2023-01-18,c66462,phone,5,347.92,982 main st,cash,pending,trk52743700,6,winter15,google,1739.6
+ord200484,2024-05-29,c29092,chair,4,15.01,767 main st,cash,cancelled,trk90455340,6,freeship,facebook,60.04
+ord200485,2023-08-01,c46651,chair,3,404.79,764 main st,cash,shipped,trk67679195,6,save10,instagram,1214.37
+ord200486,2023-02-03,c88981,printer,4,611.26,558 main st,cash,shipped,trk75267873,5,save10,referral,2445.04
+ord200487,2023-03-09,c40136,printer,3,346.52,211 main st,credit card,pending,trk92924852,3,save10,google,1039.56
+ord200488,2024-12-05,c81573,chair,1,36.65,556 main st,online,cancelled,trk96522994,1,winter15,email,36.65
+ord200489,2023-09-05,c11940,tablet,3,149.34,589 main st,gift card,cancelled,trk85466461,7,winter15,email,448.02
+ord200490,2024-07-22,c50097,chair,5,467.81,539 main st,online,cancelled,trk62785150,10,freeship,facebook,2339.05
+ord200491,2023-01-05,c98168,phone,5,420.7,481 main st,cash,pending,trk56423359,5,winter15,facebook,2103.5
+ord200492,2023-10-25,c39074,laptop,5,606.52,103 main st,debit card,shipped,trk13027036,6,save10,instagram,3032.6
+ord200493,2025-01-28,c84908,phone,1,420.26,372 main st,credit card,pending,trk64135970,4,freeship,facebook,420.26
+ord200494,2023-07-19,c64516,laptop,3,505.79,459 main st,debit card,pending,trk63920573,3,freeship,referral,1517.37
+ord200495,2025-06-05,c63827,phone,4,493.73,947 main st,debit card,pending,trk35730581,6,save10,facebook,1974.92
+ord200496,2025-03-14,c93618,printer,3,201.21,249 main st,online,cancelled,trk66129326,3,save10,google,603.63
+ord200497,2024-10-24,c93948,printer,3,112.29,454 main st,gift card,shipped,trk77358113,6,freeship,google,336.87
+ord200498,2023-07-12,c73961,tablet,4,132.56,306 main st,cash,returned,trk32607173,8,winter15,instagram,530.24
+ord200499,2023-04-06,c18138,printer,3,539.46,520 main st,credit card,shipped,trk20289483,4,save10,facebook,1618.38
+ord200500,2024-04-07,c79475,laptop,5,508.59,169 main st,cash,returned,trk42168516,8,winter15,facebook,2542.95
+ord200501,2024-02-04,c88546,desk,4,203.46,226 main st,credit card,pending,trk19867754,7,save10,referral,813.84
+ord200502,2023-05-20,c69332,monitor,3,565.25,745 main st,debit card,returned,trk65718848,7,save10,email,1695.75
+ord200503,2023-08-31,c64554,tablet,3,136.84,498 main st,online,pending,trk95384568,4,freeship,facebook,410.52
+ord200504,2025-06-11,c11676,monitor,2,464.5,805 main st,online,cancelled,trk35726395,2,winter15,instagram,929.0
+ord200505,2023-06-11,c36014,printer,2,434.97,558 main st,online,shipped,trk97246526,7,freeship,email,869.94
+ord200506,2023-07-25,c23279,monitor,2,43.67,696 main st,cash,returned,trk58039693,4,winter15,instagram,87.34
+ord200507,2023-07-05,c86481,phone,1,171.59,546 main st,credit card,pending,trk87513944,5,winter15,email,171.59
+ord200508,2025-05-14,c39550,phone,1,558.27,976 main st,online,delivered,trk24120267,1,freeship,referral,558.27
+ord200509,2023-02-15,c68937,laptop,2,425.03,560 main st,cash,returned,trk31908657,2,winter15,google,850.06
+ord200510,2024-12-16,c72533,printer,1,376.76,389 main st,debit card,delivered,trk51288986,5,save10,email,376.76
+ord200511,2024-03-15,c11415,monitor,5,575.24,267 main st,cash,delivered,trk65061457,7,winter15,email,2876.2
+ord200512,2024-09-27,c14114,desk,3,568.02,856 main st,online,pending,trk63290700,3,freeship,instagram,1704.06
+ord200513,2025-02-09,c64128,tablet,3,94.88,533 main st,gift card,shipped,trk37053575,8,freeship,referral,284.64
+ord200514,2023-04-16,c15629,printer,3,304.15,492 main st,gift card,shipped,trk64926044,3,winter15,instagram,912.45
+ord200515,2023-03-14,c67561,phone,3,553.52,160 main st,gift card,shipped,trk75900717,4,freeship,facebook,1660.56
+ord200516,2024-04-07,c47022,monitor,3,166.99,208 main st,cash,returned,trk28855040,8,freeship,facebook,500.97
+ord200517,2024-04-09,c55205,tablet,4,198.35,943 main st,cash,cancelled,trk88141634,7,freeship,google,793.4
+ord200518,2025-06-13,c30686,printer,4,403.58,319 main st,online,pending,trk59807273,9,save10,referral,1614.32
+ord200519,2025-05-10,c71797,laptop,4,464.29,941 main st,debit card,returned,trk66010667,5,save10,email,1857.16
+ord200520,2023-03-10,c66332,monitor,3,635.98,959 main st,cash,returned,trk27063398,5,freeship,referral,1907.94
+ord200521,2024-02-25,c82318,phone,1,528.06,991 main st,credit card,shipped,trk37534165,2,freeship,facebook,528.06
+ord200522,2024-04-20,c66254,chair,1,515.32,740 main st,gift card,cancelled,trk82843861,1,freeship,email,515.32
+ord200523,2025-02-18,c65083,desk,4,657.79,652 main st,credit card,returned,trk60937148,6,winter15,google,2631.16
+ord200524,2023-10-25,c44778,phone,1,153.0,103 main st,credit card,returned,trk92617366,4,freeship,referral,153.0
+ord200525,2023-12-03,c54499,monitor,1,668.48,160 main st,debit card,shipped,trk18061555,1,save10,email,668.48
+ord200526,2024-02-29,c91201,desk,2,46.5,837 main st,cash,returned,trk63526023,7,winter15,google,93.0
+ord200528,2025-02-26,c32011,chair,1,628.89,686 main st,credit card,returned,trk70997744,2,save10,referral,628.89
+ord200529,2024-04-07,c21181,tablet,2,675.1,938 main st,cash,pending,trk50363421,4,freeship,google,1350.2
+ord200530,2024-07-18,c98450,chair,4,89.41,613 main st,online,pending,trk14809530,9,freeship,google,357.64
+ord200531,2024-07-02,c64502,desk,5,320.01,722 main st,gift card,delivered,trk14914388,6,freeship,referral,1600.05
+ord200532,2025-05-03,c47365,laptop,2,41.0,369 main st,online,delivered,trk42207882,7,freeship,email,82.0
+ord200533,2023-03-05,c66349,desk,1,565.85,715 main st,gift card,returned,trk63550793,1,freeship,facebook,565.85
+ord200534,2024-06-06,c73289,chair,3,648.59,906 main st,debit card,cancelled,trk70872738,4,save10,email,1945.77
+ord200535,2024-07-24,c48649,monitor,3,68.12,332 main st,online,cancelled,trk45821445,3,freeship,email,204.36
+ord200536,2024-06-09,c18724,chair,1,616.1,124 main st,cash,returned,trk52508861,6,freeship,email,616.1
+ord200537,2025-03-23,c68553,tablet,3,247.47,385 main st,online,delivered,trk58218971,4,save10,facebook,742.41
+ord200538,2024-05-24,c61280,phone,3,490.74,100 main st,cash,shipped,trk95487711,3,winter15,email,1472.22
+ord200539,2025-02-18,c53277,desk,3,531.72,473 main st,gift card,delivered,trk17653832,7,save10,google,1595.16
+ord200540,2024-01-29,c87281,laptop,5,648.65,852 main st,online,pending,trk81765057,7,freeship,referral,3243.25
+ord200541,2023-08-07,c69009,printer,5,456.06,879 main st,cash,pending,trk61295842,10,freeship,instagram,2280.3
+ord200542,2023-11-14,c49726,tablet,1,17.98,934 main st,cash,cancelled,trk20739460,6,freeship,email,17.98
+ord200543,2024-03-09,c37531,desk,5,269.86,354 main st,cash,shipped,trk93877673,6,winter15,facebook,1349.3
+ord200544,2024-03-10,c48713,printer,5,31.96,373 main st,credit card,returned,trk96334419,5,freeship,referral,159.8
+ord200545,2023-12-19,c74138,monitor,2,98.47,964 main st,cash,returned,trk74091695,3,freeship,instagram,196.94
+ord200546,2024-03-01,c82399,monitor,1,158.68,928 main st,credit card,returned,trk77177284,6,winter15,instagram,158.68
+ord200547,2023-08-20,c40427,phone,1,613.98,411 main st,online,delivered,trk25392280,4,freeship,facebook,613.98
+ord200548,2024-01-05,c17103,printer,3,426.12,922 main st,online,delivered,trk64398650,5,winter15,instagram,1278.36
+ord200549,2025-02-25,c34266,monitor,4,629.88,550 main st,debit card,cancelled,trk56378197,8,winter15,instagram,2519.52
+ord200550,2023-10-29,c97485,laptop,4,228.91,573 main st,cash,shipped,trk81794737,4,freeship,google,915.64
+ord200551,2023-05-18,c23947,laptop,1,120.98,353 main st,debit card,delivered,trk74812710,6,winter15,email,120.98
+ord200552,2023-09-30,c21665,chair,4,425.18,560 main st,online,returned,trk29890761,8,winter15,facebook,1700.72
+ord200553,2023-08-23,c82550,phone,2,333.83,828 main st,gift card,cancelled,trk74103758,4,freeship,referral,667.66
+ord200554,2025-05-30,c61943,laptop,2,492.9,610 main st,cash,returned,trk66126496,5,freeship,instagram,985.8
+ord200555,2023-01-07,c88933,tablet,1,92.04,333 main st,cash,shipped,trk89306964,2,freeship,facebook,92.04
+ord200556,2023-01-28,c30923,laptop,1,654.27,932 main st,gift card,pending,trk82609328,2,save10,facebook,654.27
+ord200557,2023-06-29,c56969,tablet,1,56.2,130 main st,debit card,pending,trk40719215,1,winter15,facebook,56.2
+ord200558,2024-07-16,c76766,phone,4,628.12,485 main st,online,delivered,trk32052962,6,winter15,instagram,2512.48
+ord200559,2024-04-15,c22981,desk,3,157.4,454 main st,debit card,cancelled,trk10115285,7,winter15,email,472.2
+ord200560,2023-01-31,c33634,monitor,4,588.85,524 main st,gift card,pending,trk93168008,7,freeship,email,2355.4
+ord200561,2023-01-31,c96822,printer,2,494.78,198 main st,online,shipped,trk89180077,2,freeship,google,989.56
+ord200562,2023-10-06,c76675,laptop,3,663.93,922 main st,gift card,returned,trk28043915,6,freeship,email,1991.79
+ord200563,2023-12-12,c12039,laptop,1,132.68,844 main st,debit card,returned,trk68645763,1,save10,referral,132.68
+ord200564,2025-04-08,c93309,desk,5,364.28,734 main st,credit card,cancelled,trk99446987,5,winter15,google,1821.4
+ord200565,2023-05-14,c62042,tablet,5,307.98,214 main st,online,pending,trk42605492,10,freeship,facebook,1539.9
+ord200566,2024-04-18,c83223,phone,4,162.71,167 main st,cash,cancelled,trk54339083,7,freeship,email,650.84
+ord200567,2024-09-30,c92575,chair,5,492.94,153 main st,cash,shipped,trk53579227,10,freeship,email,2464.7
+ord200568,2023-03-10,c29072,laptop,2,343.99,312 main st,online,delivered,trk72334047,4,freeship,google,687.98
+ord200569,2025-03-22,c25783,desk,5,250.68,672 main st,cash,shipped,trk13289741,8,save10,instagram,1253.4
+ord200570,2024-12-27,c63727,desk,2,362.14,122 main st,debit card,pending,trk13611021,2,save10,instagram,724.28
+ord200571,2024-11-23,c42365,tablet,1,214.08,867 main st,gift card,returned,trk39563288,2,winter15,google,214.08
+ord200572,2023-11-11,c27438,printer,1,70.32,341 main st,cash,returned,trk69125497,4,winter15,facebook,70.32
+ord200573,2023-01-25,c13205,chair,5,421.42,522 main st,debit card,cancelled,trk30686578,7,freeship,instagram,2107.1
+ord200574,2024-01-24,c29685,chair,5,384.69,275 main st,credit card,pending,trk97733212,6,freeship,email,1923.45
+ord200575,2023-06-07,c74005,chair,5,448.15,528 main st,gift card,returned,trk61640534,7,save10,google,2240.75
+ord200576,2024-05-29,c14457,laptop,5,79.08,747 main st,cash,pending,trk42517811,8,freeship,facebook,395.4
+ord200577,2023-01-22,c77046,tablet,4,185.41,967 main st,online,returned,trk44401497,9,winter15,google,741.64
+ord200578,2024-10-10,c50415,monitor,5,566.07,587 main st,credit card,delivered,trk41345634,6,save10,instagram,2830.35
+ord200579,2023-06-04,c73999,tablet,2,187.88,413 main st,online,shipped,trk67919507,4,winter15,facebook,375.76
+ord200580,2023-11-14,c71076,monitor,2,255.99,340 main st,credit card,delivered,trk65148292,4,save10,instagram,511.98
+ord200581,2024-11-11,c44674,laptop,1,627.34,942 main st,online,delivered,trk87158684,1,freeship,referral,627.34
+ord200582,2024-02-19,c15228,tablet,3,474.14,558 main st,gift card,shipped,trk33860620,8,winter15,google,1422.42
+ord200583,2025-06-15,c27072,chair,3,154.37,996 main st,gift card,delivered,trk29750379,4,freeship,instagram,463.11
+ord200584,2025-03-21,c15257,chair,4,145.05,626 main st,online,delivered,trk28779938,6,save10,google,580.2
+ord200585,2023-08-20,c91486,tablet,4,67.08,907 main st,cash,returned,trk79617136,8,winter15,google,268.32
+ord200586,2024-11-10,c17389,monitor,1,522.08,905 main st,gift card,returned,trk98857880,5,freeship,referral,522.08
+ord200587,2023-06-12,c18820,monitor,5,514.6,347 main st,gift card,delivered,trk91547425,10,freeship,instagram,2573.0
+ord200588,2024-12-10,c61849,monitor,4,577.82,811 main st,credit card,delivered,trk47613918,9,freeship,google,2311.28
+ord200589,2025-02-10,c84041,laptop,2,500.8,900 main st,cash,delivered,trk84920444,3,freeship,referral,1001.6
+ord200590,2023-09-10,c55757,printer,2,461.13,175 main st,gift card,returned,trk27356242,4,freeship,email,922.26
+ord200591,2024-11-18,c18187,laptop,1,605.28,470 main st,gift card,shipped,trk50528185,3,freeship,referral,605.28
+ord200592,2024-04-23,c42306,phone,3,204.27,938 main st,online,returned,trk15499648,4,freeship,google,612.81
+ord200593,2023-08-02,c51024,monitor,1,489.8,636 main st,gift card,shipped,trk31375086,4,freeship,facebook,489.8
+ord200594,2024-02-21,c40140,phone,5,72.64,598 main st,credit card,cancelled,trk12671989,7,freeship,email,363.2
+ord200595,2025-01-10,c72596,printer,2,385.16,491 main st,online,pending,trk83870446,7,save10,email,770.32
+ord200596,2023-06-12,c91805,desk,3,606.41,653 main st,debit card,returned,trk34504030,7,freeship,facebook,1819.23
+ord200597,2024-11-25,c40538,desk,2,211.82,700 main st,gift card,cancelled,trk29821356,4,winter15,email,423.64
+ord200598,2024-04-26,c60329,desk,5,495.35,826 main st,credit card,pending,trk59069987,5,freeship,facebook,2476.75
+ord200599,2023-06-30,c28740,chair,3,556.99,123 main st,online,cancelled,trk33642221,4,freeship,facebook,1670.97
+ord200600,2023-05-26,c87051,printer,1,72.31,460 main st,gift card,cancelled,trk82056333,1,freeship,facebook,72.31
+ord200601,2023-10-02,c12479,monitor,5,24.82,529 main st,credit card,shipped,trk73935314,10,freeship,referral,124.1
+ord200602,2024-03-05,c35852,tablet,4,26.04,982 main st,online,pending,trk64660134,5,save10,instagram,104.16
+ord200603,2024-10-04,c26223,tablet,1,657.07,800 main st,cash,pending,trk50900547,4,save10,google,657.07
+ord200604,2025-06-22,c99214,chair,3,32.62,252 main st,debit card,delivered,trk81368481,6,freeship,facebook,97.86
+ord200605,2024-05-10,c49605,monitor,2,228.91,892 main st,debit card,shipped,trk95620066,4,save10,referral,457.82
+ord200606,2024-11-06,c85018,laptop,3,274.75,783 main st,cash,cancelled,trk54128886,3,save10,google,824.25
+ord200607,2025-05-31,c96434,printer,4,634.05,282 main st,cash,shipped,trk56730647,6,save10,google,2536.2
+ord200608,2024-07-24,c32956,laptop,5,543.16,788 main st,online,cancelled,trk73140103,6,save10,instagram,2715.8
+ord200609,2025-01-27,c41137,chair,3,449.13,809 main st,cash,returned,trk52732162,5,winter15,referral,1347.39
+ord200610,2024-06-16,c60361,desk,5,389.62,623 main st,cash,returned,trk83566924,7,freeship,facebook,1948.1
+ord200611,2023-04-21,c36688,desk,1,305.17,700 main st,gift card,returned,trk35720426,3,winter15,referral,305.17
+ord200612,2023-06-02,c51811,chair,3,445.12,339 main st,gift card,cancelled,trk82377939,8,freeship,google,1335.36
+ord200613,2024-12-19,c62405,laptop,2,230.36,154 main st,online,returned,trk14721763,4,winter15,email,460.72
+ord200614,2024-03-08,c77363,phone,1,96.81,807 main st,gift card,cancelled,trk12439827,3,freeship,referral,96.81
+ord200615,2025-03-07,c97218,monitor,5,460.14,252 main st,credit card,returned,trk52632065,10,winter15,facebook,2300.7
+ord200616,2024-10-17,c43919,tablet,3,601.6,984 main st,credit card,cancelled,trk73113192,7,save10,facebook,1804.8
+ord200617,2024-02-08,c57093,tablet,3,184.47,834 main st,online,cancelled,trk75469057,4,freeship,referral,553.41
+ord200618,2024-09-03,c50565,tablet,1,411.34,399 main st,debit card,returned,trk97981418,5,freeship,instagram,411.34
+ord200619,2024-07-16,c38845,laptop,1,532.89,764 main st,gift card,pending,trk47637374,2,freeship,referral,532.89
+ord200620,2024-03-27,c84834,tablet,3,136.34,866 main st,debit card,returned,trk90136001,8,save10,referral,409.02
+ord200621,2023-10-22,c37455,phone,5,476.01,146 main st,credit card,delivered,trk82685594,7,winter15,google,2380.05
+ord200622,2024-11-02,c27078,desk,5,236.38,128 main st,credit card,returned,trk89314307,7,freeship,facebook,1181.9
+ord200623,2023-06-16,c91941,printer,3,396.0,269 main st,gift card,cancelled,trk21330732,4,freeship,instagram,1188.0
+ord200624,2024-01-16,c25967,tablet,5,341.96,747 main st,debit card,delivered,trk88559278,6,freeship,email,1709.8
+ord200625,2023-09-24,c22123,tablet,1,672.89,519 main st,credit card,pending,trk43250279,1,winter15,email,672.89
+ord200626,2024-03-01,c45671,tablet,2,657.48,769 main st,online,shipped,trk18179773,5,save10,referral,1314.96
+ord200627,2023-08-06,c53334,chair,3,498.68,879 main st,online,returned,trk31724421,4,freeship,email,1496.04
+ord200628,2023-03-26,c18717,printer,5,558.63,861 main st,cash,pending,trk58568806,8,freeship,referral,2793.15
+ord200629,2023-07-07,c50137,phone,3,19.73,840 main st,online,pending,trk91836131,3,freeship,referral,59.19
+ord200630,2023-06-23,c51481,monitor,5,248.84,140 main st,debit card,cancelled,trk33437701,10,freeship,instagram,1244.2
+ord200631,2024-08-31,c99128,chair,3,46.11,360 main st,gift card,returned,trk32426808,5,winter15,referral,138.33
+ord200633,2024-04-10,c79533,laptop,5,601.72,921 main st,gift card,cancelled,trk54711422,5,winter15,instagram,3008.6
+ord200634,2024-04-25,c66906,printer,2,259.32,117 main st,gift card,delivered,trk31633755,2,winter15,referral,518.64
+ord200635,2023-12-13,c12818,chair,3,63.68,434 main st,cash,returned,trk40879983,6,freeship,facebook,191.04
+ord200636,2023-10-05,c60384,laptop,4,371.07,336 main st,cash,cancelled,trk92080037,7,winter15,facebook,1484.28
+ord200637,2024-09-29,c92294,chair,4,306.35,784 main st,gift card,shipped,trk23585765,7,winter15,referral,1225.4
+ord200638,2023-10-15,c66840,tablet,4,578.27,547 main st,online,delivered,trk76929637,9,winter15,email,2313.08
+ord200639,2023-01-20,c22534,chair,1,529.19,391 main st,cash,cancelled,trk17415798,5,freeship,referral,529.19
+ord200640,2024-02-27,c46509,chair,2,587.49,647 main st,gift card,returned,trk24241664,6,save10,referral,1174.98
+ord200641,2024-06-30,c71680,printer,4,567.57,814 main st,debit card,pending,trk47386650,9,winter15,google,2270.28
+ord200642,2024-04-29,c15063,chair,5,85.22,527 main st,credit card,cancelled,trk10329390,7,freeship,email,426.1
+ord200643,2024-08-26,c77122,laptop,1,438.37,647 main st,cash,cancelled,trk75814880,4,save10,referral,438.37
+ord200644,2023-11-15,c86524,chair,2,366.23,961 main st,cash,shipped,trk62490506,2,winter15,email,732.46
+ord200645,2023-01-02,c82990,laptop,2,150.05,727 main st,credit card,cancelled,trk68574801,4,save10,facebook,300.1
+ord200646,2023-10-27,c98761,chair,4,498.51,804 main st,debit card,shipped,trk43262630,4,save10,google,1994.04
+ord200647,2025-04-24,c54409,desk,3,339.39,667 main st,cash,returned,trk67671316,7,freeship,google,1018.17
+ord200648,2025-01-18,c89674,monitor,2,575.83,182 main st,online,delivered,trk45902512,3,winter15,referral,1151.66
+ord200649,2023-12-23,c45899,monitor,2,642.98,153 main st,debit card,returned,trk32932093,7,freeship,email,1285.96
+ord200650,2023-05-18,c74499,desk,2,372.23,518 main st,gift card,delivered,trk93767278,7,save10,email,744.46
+ord200651,2024-11-12,c81192,chair,3,646.34,429 main st,debit card,pending,trk76931118,5,freeship,google,1939.02
+ord200652,2024-06-05,c71473,chair,5,341.84,328 main st,online,shipped,trk94857335,8,freeship,instagram,1709.2
+ord200653,2024-02-25,c59338,printer,3,690.3,747 main st,credit card,shipped,trk12902764,6,winter15,google,2070.9
+ord200654,2023-06-12,c62661,tablet,3,382.37,863 main st,debit card,returned,trk25748100,8,freeship,instagram,1147.11
+ord200655,2023-03-14,c22101,chair,2,132.6,262 main st,debit card,cancelled,trk70711522,4,winter15,email,265.2
+ord200656,2024-01-18,c51404,monitor,2,189.06,835 main st,gift card,shipped,trk85682500,7,save10,facebook,378.12
+ord200657,2023-12-24,c19384,tablet,4,87.79,532 main st,cash,cancelled,trk33207064,6,freeship,instagram,351.16
+ord200658,2025-04-18,c86864,printer,2,46.36,670 main st,gift card,returned,trk15323191,4,save10,google,92.72
+ord200659,2024-10-26,c24301,phone,2,642.04,964 main st,gift card,delivered,trk55000075,4,winter15,email,1284.08
+ord200660,2024-10-19,c43842,chair,2,651.57,933 main st,debit card,shipped,trk54084424,7,winter15,facebook,1303.14
+ord200661,2025-02-28,c63657,tablet,3,424.89,116 main st,debit card,cancelled,trk86378984,6,freeship,google,1274.67
+ord200662,2023-01-28,c98332,laptop,3,438.89,985 main st,cash,returned,trk85744797,3,freeship,facebook,1316.67
+ord200663,2024-04-15,c59774,monitor,1,72.6,941 main st,debit card,cancelled,trk87635135,6,freeship,instagram,72.6
+ord200664,2024-12-19,c14847,laptop,4,194.75,188 main st,cash,shipped,trk46492755,5,freeship,facebook,779.0
+ord200665,2023-05-02,c83653,tablet,4,231.26,253 main st,online,shipped,trk32619935,6,winter15,google,925.04
+ord200666,2024-08-31,c35711,monitor,4,327.12,788 main st,credit card,cancelled,trk45281495,4,freeship,email,1308.48
+ord200667,2023-05-03,c10477,laptop,1,466.42,172 main st,gift card,pending,trk41505339,5,save10,email,466.42
+ord200668,2024-07-05,c61257,monitor,2,253.67,981 main st,cash,returned,trk25226070,3,winter15,facebook,507.34
+ord200669,2023-02-05,c60547,desk,1,257.0,812 main st,debit card,cancelled,trk65694249,5,freeship,referral,257.0
+ord200670,2024-04-18,c14576,desk,4,539.2,747 main st,credit card,pending,trk21637540,8,freeship,google,2156.8
+ord200671,2023-06-15,c49282,chair,5,50.74,737 main st,gift card,cancelled,trk88653901,7,winter15,google,253.7
+ord200672,2023-05-09,c14017,phone,2,624.16,984 main st,debit card,shipped,trk71009446,2,save10,instagram,1248.32
+ord200673,2023-02-21,c46504,tablet,2,372.92,131 main st,credit card,delivered,trk95024356,7,save10,email,745.84
+ord200674,2024-01-09,c56928,laptop,4,358.75,860 main st,gift card,delivered,trk57792939,9,save10,facebook,1435.0
+ord200675,2024-08-06,c97749,desk,3,342.02,906 main st,debit card,pending,trk90233116,5,freeship,email,1026.06
+ord200676,2025-06-23,c90431,laptop,2,422.34,985 main st,credit card,cancelled,trk44151723,4,freeship,instagram,844.68
+ord200677,2025-04-03,c56722,tablet,5,22.07,179 main st,online,cancelled,trk78778569,7,freeship,instagram,110.35
+ord200678,2024-11-24,c40863,chair,3,163.13,457 main st,gift card,shipped,trk20553345,5,winter15,facebook,489.39
+ord200679,2023-02-02,c40798,tablet,3,360.66,304 main st,online,returned,trk66106697,5,freeship,instagram,1081.98
+ord200680,2023-08-27,c16702,monitor,3,463.39,694 main st,credit card,returned,trk16953491,3,freeship,facebook,1390.17
+ord200681,2024-01-30,c38262,tablet,1,155.27,548 main st,debit card,shipped,trk47300502,6,freeship,email,155.27
+ord200682,2023-07-23,c50274,monitor,3,509.42,449 main st,credit card,cancelled,trk91729086,5,freeship,google,1528.26
+ord200683,2025-05-18,c91591,desk,4,652.48,887 main st,cash,pending,trk23554043,5,freeship,instagram,2609.92
+ord200684,2024-09-22,c96583,printer,4,34.84,288 main st,credit card,shipped,trk64353241,8,freeship,email,139.36
+ord200685,2025-02-07,c64579,desk,1,234.37,638 main st,debit card,shipped,trk10276565,5,freeship,email,234.37
+ord200686,2023-10-09,c41903,desk,3,53.6,525 main st,cash,pending,trk59112382,4,winter15,facebook,160.8
+ord200687,2023-09-13,c19742,tablet,1,332.09,408 main st,gift card,returned,trk68845230,5,freeship,instagram,332.09
+ord200688,2024-03-06,c20077,monitor,4,593.22,154 main st,credit card,cancelled,trk36415742,8,winter15,facebook,2372.88
+ord200689,2023-08-29,c13186,tablet,2,444.84,787 main st,online,shipped,trk56967415,7,freeship,facebook,889.68
+ord200690,2024-07-12,c29318,monitor,1,24.48,128 main st,gift card,returned,trk88666721,1,freeship,instagram,24.48
+ord200691,2024-11-24,c36137,laptop,3,239.08,396 main st,cash,shipped,trk57376416,8,freeship,google,717.24
+ord200692,2023-01-23,c25534,desk,5,196.84,319 main st,credit card,delivered,trk68347402,5,winter15,instagram,984.2
+ord200693,2025-03-12,c62070,monitor,1,176.58,674 main st,debit card,returned,trk10267127,4,freeship,referral,176.58
+ord200694,2023-10-02,c92049,printer,4,666.52,619 main st,cash,shipped,trk32287092,8,freeship,email,2666.08
+ord200695,2024-11-23,c52604,printer,5,101.3,553 main st,online,shipped,trk48839788,7,freeship,email,506.5
+ord200696,2023-07-02,c22429,chair,4,151.2,965 main st,gift card,pending,trk38572927,9,winter15,facebook,604.8
+ord200697,2025-02-04,c27430,printer,5,94.85,788 main st,cash,shipped,trk45025840,6,winter15,email,474.25
+ord200698,2023-01-04,c44366,laptop,2,388.22,169 main st,cash,delivered,trk48658394,2,winter15,instagram,776.44
+ord200699,2023-11-13,c36813,laptop,3,614.15,897 main st,gift card,cancelled,trk84088900,3,freeship,facebook,1842.45
+ord200700,2024-09-25,c40201,laptop,2,92.91,555 main st,cash,returned,trk30198779,3,winter15,instagram,185.82
+ord200701,2024-06-23,c75456,monitor,3,92.22,115 main st,credit card,delivered,trk90519490,5,freeship,email,276.66
+ord200702,2024-06-09,c33315,printer,3,562.55,154 main st,debit card,returned,trk43589369,6,freeship,email,1687.65
+ord200703,2023-03-22,c89336,desk,1,92.79,799 main st,cash,pending,trk47665103,3,winter15,email,92.79
+ord200704,2023-06-03,c96034,desk,4,30.27,819 main st,online,delivered,trk87261034,9,freeship,google,121.08
+ord200705,2025-03-30,c50114,monitor,2,49.08,420 main st,debit card,returned,trk20214786,7,freeship,instagram,98.16
+ord200706,2025-03-02,c85330,desk,5,228.09,969 main st,gift card,returned,trk97693301,9,freeship,facebook,1140.45
+ord200707,2024-11-01,c31761,chair,4,650.04,989 main st,gift card,cancelled,trk17628852,6,save10,facebook,2600.16
+ord200708,2025-03-04,c25268,printer,1,665.11,788 main st,cash,pending,trk20481215,3,freeship,instagram,665.11
+ord200709,2024-12-07,c17132,desk,1,386.03,855 main st,online,pending,trk37504692,4,freeship,google,386.03
+ord200710,2024-07-22,c48790,laptop,5,21.54,113 main st,gift card,returned,trk19086608,10,freeship,google,107.7
+ord200711,2024-07-04,c61070,tablet,2,475.78,632 main st,online,shipped,trk90764894,2,winter15,google,951.56
+ord200712,2024-01-09,c56969,tablet,2,68.4,993 main st,gift card,pending,trk10513339,7,freeship,email,136.8
+ord200713,2025-06-21,c65056,tablet,4,532.49,638 main st,online,cancelled,trk31705278,6,save10,facebook,2129.96
+ord200714,2023-04-21,c84888,laptop,1,51.73,278 main st,debit card,pending,trk23612847,1,freeship,facebook,51.73
+ord200715,2024-07-26,c68266,printer,3,653.63,281 main st,online,delivered,trk96161062,7,freeship,email,1960.89
+ord200716,2024-06-13,c84115,chair,3,454.29,891 main st,credit card,pending,trk25466842,4,winter15,google,1362.87
+ord200717,2023-10-16,c50087,chair,3,122.11,707 main st,online,delivered,trk31143760,4,winter15,email,366.33
+ord200718,2023-04-08,c16790,laptop,4,64.74,718 main st,gift card,cancelled,trk91791367,8,save10,google,258.96
+ord200719,2024-01-21,c46920,laptop,2,681.06,703 main st,debit card,shipped,trk86403837,3,freeship,facebook,1362.12
+ord200720,2023-09-21,c12740,desk,5,128.95,305 main st,cash,pending,trk98506513,10,freeship,instagram,644.75
+ord200721,2024-03-18,c46557,desk,2,118.59,890 main st,credit card,delivered,trk56110689,2,freeship,email,237.18
+ord200722,2024-11-15,c58156,printer,1,95.1,516 main st,gift card,pending,trk49719458,1,winter15,instagram,95.1
+ord200723,2023-12-09,c14455,desk,3,54.95,385 main st,cash,returned,trk50933724,8,save10,referral,164.85
+ord200724,2024-10-18,c63150,printer,3,136.97,326 main st,credit card,returned,trk19348078,4,freeship,referral,410.91
+ord200725,2023-03-12,c95269,chair,2,194.85,372 main st,gift card,returned,trk45670926,5,freeship,referral,389.7
+ord200726,2024-10-25,c18105,laptop,4,583.02,338 main st,online,delivered,trk94006117,4,freeship,facebook,2332.08
+ord200727,2024-09-29,c29063,chair,5,95.75,379 main st,online,shipped,trk92745947,8,save10,instagram,478.75
+ord200728,2024-07-29,c10154,desk,4,325.76,827 main st,gift card,shipped,trk79793300,8,winter15,email,1303.04
+ord200729,2023-09-08,c36997,phone,4,186.41,819 main st,gift card,pending,trk92794872,6,save10,google,745.64
+ord200730,2025-02-22,c77357,phone,1,474.6,407 main st,debit card,delivered,trk91943923,4,save10,email,474.6
+ord200731,2024-06-07,c71310,printer,5,584.46,308 main st,credit card,returned,trk48292586,8,freeship,email,2922.3
+ord200732,2025-03-07,c80987,laptop,1,132.05,787 main st,online,delivered,trk42187776,2,freeship,google,132.05
+ord200733,2023-12-04,c90757,tablet,4,494.84,694 main st,cash,returned,trk87991608,8,save10,email,1979.36
+ord200734,2024-01-23,c51898,printer,4,224.61,630 main st,credit card,returned,trk19767885,6,winter15,facebook,898.44
+ord200735,2024-06-28,c94508,monitor,4,44.07,359 main st,debit card,pending,trk13443264,6,freeship,email,176.28
+ord200736,2024-02-09,c59441,monitor,5,418.53,696 main st,credit card,pending,trk66186874,6,freeship,google,2092.65
+ord200737,2024-01-03,c91029,phone,4,532.87,972 main st,cash,pending,trk25501930,9,freeship,instagram,2131.48
+ord200738,2025-06-04,c96261,phone,2,485.37,264 main st,credit card,shipped,trk44998396,5,save10,email,970.74
+ord200739,2024-06-13,c35123,phone,4,386.73,513 main st,cash,delivered,trk58979275,4,save10,facebook,1546.92
+ord200740,2024-07-20,c10892,desk,2,377.47,433 main st,cash,pending,trk76154554,7,freeship,google,754.94
+ord200741,2025-01-23,c99683,monitor,5,332.64,945 main st,gift card,delivered,trk87305883,10,freeship,referral,1663.2
+ord200742,2024-11-30,c41974,laptop,3,699.93,726 main st,cash,returned,trk48051468,7,save10,google,2099.79
+ord200743,2024-09-30,c23978,monitor,1,576.35,549 main st,gift card,returned,trk87090813,1,winter15,instagram,576.35
+ord200744,2024-06-12,c10642,tablet,2,461.37,200 main st,cash,delivered,trk98725693,5,save10,google,922.74
+ord200745,2023-03-02,c73813,printer,4,111.3,364 main st,debit card,pending,trk89906749,7,freeship,email,445.2
+ord200746,2025-02-24,c32183,desk,3,661.89,551 main st,online,cancelled,trk76287027,6,winter15,referral,1985.67
+ord200747,2025-03-12,c54277,tablet,2,259.58,940 main st,debit card,delivered,trk26500181,7,freeship,instagram,519.16
+ord200748,2024-07-15,c56553,tablet,3,70.81,249 main st,credit card,shipped,trk37667360,8,freeship,referral,212.43
+ord200749,2025-04-13,c17551,laptop,1,518.39,997 main st,debit card,pending,trk88797170,4,freeship,instagram,518.39
+ord200750,2023-01-14,c14737,tablet,4,145.41,637 main st,credit card,returned,trk10295115,7,freeship,email,581.64
+ord200751,2023-01-24,c35168,tablet,2,599.86,455 main st,gift card,pending,trk76960854,7,freeship,facebook,1199.72
+ord200752,2024-10-03,c82217,phone,4,429.37,299 main st,credit card,delivered,trk33305694,8,freeship,google,1717.48
+ord200753,2024-04-24,c42270,phone,2,241.49,864 main st,debit card,returned,trk72697796,7,freeship,instagram,482.98
+ord200754,2025-05-31,c48846,printer,2,452.05,983 main st,credit card,returned,trk52804097,3,winter15,email,904.1
+ord200755,2023-06-13,c54160,desk,3,336.71,658 main st,credit card,pending,trk60515972,4,freeship,email,1010.13
+ord200756,2024-06-27,c14080,phone,1,283.69,202 main st,gift card,shipped,trk93163682,6,freeship,google,283.69
+ord200757,2024-02-22,c81074,desk,1,157.72,597 main st,debit card,delivered,trk91105190,2,freeship,google,157.72
+ord200758,2023-03-26,c69021,tablet,3,624.84,917 main st,credit card,cancelled,trk57148510,8,winter15,facebook,1874.52
+ord200759,2023-07-24,c96283,desk,3,308.01,366 main st,cash,pending,trk91784124,3,freeship,facebook,924.03
+ord200760,2025-02-18,c96636,desk,1,39.56,283 main st,debit card,cancelled,trk73324346,5,freeship,google,39.56
+ord200761,2023-06-02,c37235,desk,4,37.76,217 main st,debit card,delivered,trk67789367,7,freeship,google,151.04
+ord200762,2024-09-17,c12444,phone,3,76.96,611 main st,cash,returned,trk97621403,8,freeship,email,230.88
+ord200763,2023-04-06,c79142,laptop,1,569.96,533 main st,online,delivered,trk30915955,4,freeship,email,569.96
+ord200764,2024-03-10,c35983,laptop,5,627.43,806 main st,credit card,cancelled,trk14016163,10,freeship,email,3137.15
+ord200765,2023-10-06,c36150,laptop,2,534.91,281 main st,debit card,returned,trk96249043,5,save10,google,1069.82
+ord200766,2023-01-22,c91454,printer,2,278.88,494 main st,debit card,pending,trk99985340,3,freeship,referral,557.76
+ord200767,2025-04-18,c19368,tablet,2,323.22,517 main st,credit card,delivered,trk80436037,7,freeship,instagram,646.44
+ord200769,2023-07-06,c13366,printer,4,678.55,568 main st,cash,delivered,trk98691410,5,freeship,email,2714.2
+ord200770,2024-02-11,c72166,desk,1,314.38,227 main st,online,returned,trk67733444,6,freeship,google,314.38
+ord200771,2024-06-12,c20357,phone,3,692.44,272 main st,debit card,cancelled,trk82236408,8,freeship,google,2077.32
+ord200772,2024-07-28,c33802,monitor,1,604.87,461 main st,online,delivered,trk25799478,4,freeship,instagram,604.87
+ord200773,2025-06-28,c99205,phone,2,512.33,415 main st,cash,cancelled,trk48904015,7,freeship,facebook,1024.66
+ord200774,2025-04-15,c29701,chair,3,20.54,257 main st,credit card,cancelled,trk42266846,3,freeship,instagram,61.62
+ord200775,2023-03-04,c73941,phone,2,625.22,569 main st,online,cancelled,trk22051900,5,freeship,google,1250.44
+ord200776,2023-08-21,c69168,tablet,1,21.19,482 main st,cash,returned,trk10446197,5,winter15,google,21.19
+ord200777,2025-03-21,c66116,chair,5,64.49,633 main st,online,cancelled,trk41967983,7,freeship,facebook,322.45
+ord200778,2023-04-28,c85059,laptop,4,246.85,316 main st,credit card,shipped,trk56503740,8,winter15,google,987.4
+ord200779,2023-12-01,c18076,phone,3,588.74,751 main st,debit card,pending,trk26661705,8,freeship,email,1766.22
+ord200780,2024-03-31,c41284,laptop,4,184.48,661 main st,online,cancelled,trk73613128,4,winter15,google,737.92
+ord200781,2024-01-10,c43524,phone,5,524.26,934 main st,gift card,delivered,trk51479426,5,freeship,referral,2621.3
+ord200782,2024-08-11,c58063,monitor,2,493.63,167 main st,online,returned,trk50548869,6,save10,referral,987.26
+ord200783,2025-05-26,c19937,printer,1,438.34,281 main st,gift card,returned,trk46990083,5,freeship,facebook,438.34
+ord200784,2025-05-16,c21191,laptop,1,325.81,232 main st,credit card,pending,trk85771230,1,winter15,referral,325.81
+ord200785,2023-07-29,c45862,chair,1,176.1,342 main st,credit card,pending,trk53089983,1,save10,instagram,176.1
+ord200786,2023-08-23,c39130,chair,5,45.31,774 main st,online,cancelled,trk99583414,8,freeship,referral,226.55
+ord200787,2024-03-17,c18167,desk,4,221.96,193 main st,cash,delivered,trk36841089,7,freeship,google,887.84
+ord200788,2023-11-02,c47307,chair,2,601.43,761 main st,online,pending,trk43516112,5,freeship,instagram,1202.86
+ord200790,2024-09-14,c38928,laptop,4,417.89,302 main st,gift card,pending,trk96636009,4,freeship,google,1671.56
+ord200791,2024-01-13,c49710,chair,4,409.28,956 main st,cash,pending,trk92591237,8,freeship,email,1637.12
+ord200792,2023-06-16,c41709,desk,2,356.35,746 main st,debit card,returned,trk90995294,6,winter15,facebook,712.7
+ord200793,2024-04-15,c91255,chair,5,170.22,769 main st,debit card,delivered,trk69599961,8,freeship,referral,851.1
+ord200794,2023-03-09,c76653,printer,4,384.85,988 main st,online,delivered,trk77052196,9,freeship,instagram,1539.4
+ord200795,2024-11-20,c95667,laptop,4,115.77,586 main st,online,pending,trk41266666,7,save10,instagram,463.08
+ord200796,2025-04-29,c33313,phone,3,579.55,882 main st,gift card,returned,trk13349970,8,winter15,facebook,1738.65
+ord200797,2023-02-27,c36825,laptop,2,438.76,426 main st,debit card,returned,trk72557318,2,freeship,facebook,877.52
+ord200798,2025-05-19,c20861,phone,5,488.35,968 main st,debit card,returned,trk89372013,9,freeship,email,2441.75
+ord200799,2023-04-16,c26364,laptop,4,328.56,803 main st,debit card,returned,trk78924436,4,freeship,email,1314.24
+ord200800,2025-03-28,c34686,tablet,1,68.39,412 main st,online,returned,trk99468332,3,winter15,facebook,68.39
+ord200801,2023-05-03,c97593,printer,4,595.62,738 main st,debit card,pending,trk58443593,8,freeship,facebook,2382.48
+ord200802,2024-02-17,c84331,chair,5,644.64,205 main st,gift card,cancelled,trk34440714,6,freeship,email,3223.2
+ord200803,2023-08-20,c88775,monitor,5,397.81,223 main st,debit card,returned,trk45098068,5,save10,referral,1989.05
+ord200804,2024-01-01,c76362,chair,3,236.5,916 main st,online,delivered,trk11868618,8,freeship,email,709.5
+ord200805,2024-10-15,c59278,laptop,5,472.01,178 main st,gift card,cancelled,trk14590037,10,save10,email,2360.05
+ord200806,2023-09-01,c55819,chair,5,253.75,740 main st,online,pending,trk13775054,9,winter15,instagram,1268.75
+ord200807,2024-11-10,c82344,monitor,3,676.21,260 main st,online,delivered,trk70957219,5,save10,google,2028.63
+ord200808,2024-02-13,c65565,desk,3,134.05,192 main st,credit card,shipped,trk80383756,3,freeship,google,402.15
+ord200809,2024-04-09,c80416,desk,5,217.43,752 main st,debit card,shipped,trk54385892,10,save10,instagram,1087.15
+ord200810,2023-05-31,c23637,tablet,1,553.56,644 main st,credit card,cancelled,trk16749863,5,freeship,referral,553.56
+ord200811,2023-11-05,c24769,laptop,2,28.55,864 main st,gift card,shipped,trk44538305,7,save10,email,57.1
+ord200812,2024-01-26,c81547,phone,2,255.26,803 main st,credit card,cancelled,trk88437123,6,freeship,google,510.52
+ord200813,2025-03-15,c12813,laptop,5,292.54,263 main st,debit card,cancelled,trk36131660,8,freeship,email,1462.7
+ord200814,2024-12-11,c50732,chair,4,147.51,979 main st,debit card,pending,trk21082461,4,winter15,instagram,590.04
+ord200815,2024-08-04,c41320,printer,3,569.84,920 main st,gift card,cancelled,trk77539180,8,winter15,instagram,1709.52
+ord200816,2024-02-21,c55286,tablet,5,574.79,497 main st,credit card,pending,trk39058734,8,winter15,referral,2873.95
+ord200817,2023-10-05,c87994,chair,4,598.19,430 main st,credit card,delivered,trk98883971,7,winter15,email,2392.76
+ord200818,2023-03-02,c25580,phone,4,390.84,860 main st,credit card,cancelled,trk58781638,9,winter15,referral,1563.36
+ord200819,2024-09-28,c66196,phone,2,398.45,650 main st,debit card,cancelled,trk38104650,7,save10,google,796.9
+ord200820,2023-05-27,c35377,phone,5,623.81,171 main st,cash,returned,trk17342157,6,freeship,email,3119.05
+ord200821,2024-12-14,c40771,laptop,4,174.49,259 main st,credit card,delivered,trk56310345,5,save10,facebook,697.96
+ord200822,2025-03-15,c20624,phone,1,479.56,923 main st,gift card,returned,trk45123395,1,save10,google,479.56
+ord200823,2024-10-07,c27070,laptop,4,653.13,973 main st,credit card,shipped,trk83842481,8,winter15,instagram,2612.52
+ord200824,2023-08-29,c18826,monitor,3,481.1,664 main st,credit card,returned,trk12530495,3,freeship,facebook,1443.3
+ord200825,2025-03-26,c23899,desk,5,271.69,543 main st,online,returned,trk88914760,7,freeship,instagram,1358.45
+ord200826,2025-03-08,c43249,printer,3,463.81,283 main st,online,returned,trk32469820,8,winter15,email,1391.43
+ord200827,2023-05-25,c95856,tablet,2,639.88,432 main st,cash,delivered,trk58829625,5,winter15,instagram,1279.76
+ord200828,2024-07-24,c86266,chair,4,404.58,510 main st,cash,shipped,trk64576020,5,freeship,instagram,1618.32
+ord200829,2023-02-05,c39551,monitor,1,76.93,685 main st,debit card,delivered,trk68358007,6,winter15,instagram,76.93
+ord200830,2024-12-11,c90310,tablet,4,190.64,853 main st,cash,delivered,trk70028457,5,save10,email,762.56
+ord200831,2023-12-18,c20124,printer,2,88.73,140 main st,online,pending,trk61346824,5,freeship,google,177.46
+ord200832,2024-03-12,c63372,chair,5,485.71,903 main st,online,pending,trk14661811,10,save10,referral,2428.55
+ord200833,2025-03-14,c90595,phone,5,78.29,508 main st,credit card,shipped,trk96573803,5,winter15,referral,391.45
+ord200834,2024-04-11,c98483,printer,5,22.14,456 main st,cash,returned,trk22084320,10,freeship,instagram,110.7
+ord200835,2024-03-26,c16429,desk,1,679.65,390 main st,debit card,shipped,trk73888013,6,freeship,google,679.65
+ord200836,2023-02-02,c31810,phone,1,178.44,328 main st,credit card,cancelled,trk58725886,2,freeship,google,178.44
+ord200838,2024-04-11,c57798,desk,4,577.08,384 main st,online,pending,trk68797566,8,freeship,facebook,2308.32
+ord200839,2023-08-24,c82858,chair,3,197.97,551 main st,online,cancelled,trk90618490,5,freeship,google,593.91
+ord200840,2024-01-14,c60699,chair,3,411.95,672 main st,credit card,delivered,trk88660574,7,freeship,referral,1235.85
+ord200841,2024-09-19,c94658,printer,2,443.22,742 main st,credit card,delivered,trk51732528,5,freeship,facebook,886.44
+ord200842,2025-05-07,c78305,laptop,3,364.14,396 main st,online,pending,trk88312618,7,winter15,referral,1092.42
+ord200843,2025-05-13,c43538,desk,3,430.06,534 main st,gift card,cancelled,trk20961563,8,freeship,instagram,1290.18
+ord200844,2024-12-04,c47486,chair,1,320.92,883 main st,online,returned,trk75984759,5,freeship,facebook,320.92
+ord200845,2023-10-08,c24212,phone,3,107.36,808 main st,gift card,delivered,trk68894675,5,freeship,google,322.08
+ord200846,2024-07-04,c24765,desk,2,359.86,646 main st,debit card,cancelled,trk43977698,4,freeship,referral,719.72
+ord200847,2024-11-18,c48176,printer,4,434.23,670 main st,online,shipped,trk90560300,8,freeship,email,1736.92
+ord200848,2023-01-01,c54675,chair,2,645.85,634 main st,online,shipped,trk18049633,5,freeship,referral,1291.7
+ord200849,2025-06-09,c16675,printer,4,214.35,664 main st,debit card,cancelled,trk12756945,7,winter15,referral,857.4
+ord200850,2025-04-27,c38557,monitor,3,638.5,890 main st,debit card,cancelled,trk14832238,4,freeship,instagram,1915.5
+ord200851,2023-12-12,c80183,laptop,1,365.57,146 main st,online,cancelled,trk20814598,5,save10,email,365.57
+ord200852,2024-10-24,c39530,desk,3,568.05,618 main st,gift card,pending,trk69000497,6,save10,google,1704.15
+ord200853,2023-10-16,c10002,printer,3,490.01,894 main st,cash,returned,trk94641152,4,save10,facebook,1470.03
+ord200854,2025-06-13,c56938,laptop,3,372.6,356 main st,credit card,delivered,trk67735987,7,winter15,referral,1117.8
+ord200855,2023-05-25,c41331,monitor,5,240.61,785 main st,credit card,shipped,trk94198179,10,freeship,email,1203.05
+ord200856,2024-06-03,c94698,phone,1,586.62,871 main st,debit card,shipped,trk95768773,5,freeship,facebook,586.62
+ord200857,2024-03-10,c56506,phone,3,257.84,185 main st,online,delivered,trk86808324,4,freeship,instagram,773.52
+ord200858,2023-08-20,c22167,tablet,5,435.66,891 main st,online,pending,trk70269748,9,freeship,facebook,2178.3
+ord200859,2024-08-28,c11127,chair,5,261.33,154 main st,credit card,returned,trk73285507,5,save10,referral,1306.65
+ord200860,2024-01-23,c69542,printer,1,422.54,876 main st,cash,delivered,trk20746505,1,save10,google,422.54
+ord200861,2023-03-19,c93276,desk,5,330.45,230 main st,gift card,shipped,trk44165913,10,freeship,google,1652.25
+ord200862,2023-12-02,c37969,desk,3,120.82,799 main st,credit card,shipped,trk69852386,5,save10,referral,362.46
+ord200863,2024-05-20,c98276,phone,1,14.06,471 main st,credit card,pending,trk74207282,5,save10,referral,14.06
+ord200864,2023-05-03,c14240,desk,1,491.11,592 main st,credit card,delivered,trk58095246,4,save10,facebook,491.11
+ord200865,2023-04-30,c72241,monitor,4,677.37,156 main st,cash,pending,trk76270481,8,save10,google,2709.48
+ord200866,2024-07-26,c39664,desk,5,189.25,693 main st,debit card,cancelled,trk39917741,10,winter15,email,946.25
+ord200867,2024-05-26,c53252,printer,4,142.58,351 main st,cash,delivered,trk65831261,4,freeship,facebook,570.32
+ord200868,2024-06-29,c70452,monitor,4,316.32,309 main st,debit card,delivered,trk42985882,7,freeship,facebook,1265.28
+ord200869,2024-03-17,c29905,desk,2,533.95,790 main st,online,delivered,trk16788127,5,winter15,google,1067.9
+ord200870,2025-06-01,c78725,phone,4,470.09,541 main st,debit card,delivered,trk72001139,4,freeship,google,1880.36
+ord200871,2024-05-16,c93768,tablet,3,324.3,720 main st,debit card,pending,trk22024707,8,freeship,email,972.9
+ord200872,2023-07-10,c59169,chair,4,629.34,172 main st,cash,shipped,trk90883858,7,freeship,email,2517.36
+ord200873,2024-05-12,c53488,desk,3,136.84,448 main st,cash,delivered,trk27365050,3,save10,facebook,410.52
+ord200874,2023-10-31,c92180,chair,2,488.9,632 main st,cash,delivered,trk93315929,7,freeship,facebook,977.8
+ord200875,2023-08-03,c25918,laptop,5,133.39,203 main st,credit card,delivered,trk66473392,6,freeship,referral,666.95
+ord200876,2024-06-09,c90363,chair,5,608.91,200 main st,gift card,pending,trk21534173,6,save10,google,3044.55
+ord200877,2024-07-25,c43867,tablet,1,524.06,269 main st,debit card,pending,trk97319127,3,freeship,email,524.06
+ord200878,2023-06-01,c73873,desk,2,330.69,393 main st,online,cancelled,trk56423132,5,save10,google,661.38
+ord200879,2025-04-08,c56622,phone,2,547.67,932 main st,gift card,shipped,trk86373987,3,freeship,instagram,1095.34
+ord200880,2025-03-12,c85074,laptop,4,233.7,506 main st,online,shipped,trk63133878,8,save10,facebook,934.8
+ord200881,2023-01-03,c59579,tablet,2,448.85,386 main st,credit card,pending,trk48000034,6,freeship,instagram,897.7
+ord200882,2025-06-28,c43335,phone,2,274.12,533 main st,cash,delivered,trk91848650,6,freeship,referral,548.24
+ord200883,2025-05-13,c43595,printer,5,561.48,451 main st,online,delivered,trk25317348,9,freeship,facebook,2807.4
+ord200884,2024-05-15,c71471,chair,1,595.54,817 main st,gift card,shipped,trk52137079,4,freeship,instagram,595.54
+ord200885,2024-04-07,c61090,laptop,4,515.59,387 main st,credit card,shipped,trk36388962,7,freeship,google,2062.36
+ord200886,2023-10-25,c29620,phone,1,460.13,792 main st,credit card,returned,trk22046456,1,freeship,google,460.13
+ord200887,2024-12-19,c67932,chair,3,171.66,857 main st,debit card,delivered,trk88547534,7,freeship,google,514.98
+ord200888,2024-07-23,c14427,laptop,2,266.95,833 main st,credit card,pending,trk58024529,3,freeship,instagram,533.9
+ord200890,2023-08-11,c51921,laptop,3,439.53,943 main st,debit card,pending,trk85741716,5,freeship,google,1318.59
+ord200891,2023-11-11,c36534,monitor,3,654.54,918 main st,cash,returned,trk38952138,7,save10,referral,1963.62
+ord200892,2024-06-04,c72043,desk,1,394.53,480 main st,cash,shipped,trk40896408,2,freeship,referral,394.53
+ord200893,2023-03-21,c99533,monitor,1,678.01,696 main st,cash,pending,trk55701253,4,freeship,referral,678.01
+ord200894,2023-05-23,c90852,tablet,3,575.01,852 main st,online,cancelled,trk37551831,8,winter15,instagram,1725.03
+ord200895,2023-11-09,c81882,chair,3,154.64,832 main st,debit card,pending,trk62371264,6,winter15,facebook,463.92
+ord200896,2024-10-18,c85466,desk,3,147.29,102 main st,gift card,shipped,trk66764177,3,freeship,google,441.87
+ord200897,2024-09-03,c87995,laptop,4,481.48,358 main st,gift card,delivered,trk38730545,5,save10,instagram,1925.92
+ord200898,2025-03-05,c44619,monitor,3,158.37,742 main st,cash,shipped,trk66662528,6,freeship,referral,475.11
+ord200899,2025-04-23,c99904,printer,2,323.37,552 main st,online,pending,trk83843411,3,save10,instagram,646.74
+ord200900,2025-02-07,c52342,laptop,5,73.83,991 main st,debit card,pending,trk67342586,9,freeship,instagram,369.15
+ord200901,2024-04-28,c44277,tablet,1,458.63,839 main st,debit card,returned,trk79321479,4,winter15,referral,458.63
+ord200902,2024-07-13,c61162,monitor,4,180.25,813 main st,debit card,cancelled,trk76712124,7,freeship,facebook,721.0
+ord200903,2023-05-17,c80868,monitor,3,473.49,205 main st,credit card,pending,trk56186636,7,freeship,email,1420.47
+ord200904,2025-02-05,c16693,monitor,4,237.43,262 main st,cash,cancelled,trk41146508,8,winter15,referral,949.72
+ord200905,2023-11-23,c67818,laptop,1,442.39,101 main st,gift card,pending,trk81978113,6,freeship,facebook,442.39
+ord200906,2024-09-03,c49938,monitor,1,62.12,141 main st,cash,returned,trk80175572,2,freeship,email,62.12
+ord200907,2024-08-04,c90898,desk,5,298.39,583 main st,gift card,cancelled,trk52935170,7,winter15,referral,1491.95
+ord200908,2025-05-06,c35117,desk,2,697.93,332 main st,credit card,cancelled,trk27155709,2,save10,google,1395.86
+ord200909,2024-05-27,c60203,tablet,2,291.85,569 main st,cash,shipped,trk76525279,5,freeship,instagram,583.7
+ord200910,2024-05-31,c36174,printer,3,308.98,348 main st,cash,delivered,trk26397548,3,save10,instagram,926.94
+ord200911,2024-08-13,c80872,desk,5,396.86,593 main st,cash,cancelled,trk43967487,9,save10,instagram,1984.3
+ord200912,2024-01-22,c67604,desk,2,139.69,318 main st,online,returned,trk85545920,7,freeship,email,279.38
+ord200913,2023-02-16,c45599,printer,5,475.95,505 main st,credit card,returned,trk62277685,8,winter15,facebook,2379.75
+ord200914,2025-02-10,c70352,desk,1,626.6,955 main st,gift card,returned,trk51589589,4,winter15,facebook,626.6
+ord200915,2024-02-16,c20643,laptop,4,502.99,939 main st,debit card,shipped,trk30736692,4,winter15,referral,2011.96
+ord200916,2024-06-21,c35669,printer,5,578.83,165 main st,cash,returned,trk13928455,6,freeship,referral,2894.15
+ord200917,2025-01-20,c65524,laptop,5,383.82,836 main st,credit card,returned,trk19315310,7,freeship,google,1919.1
+ord200918,2025-06-24,c74359,laptop,5,368.25,706 main st,online,delivered,trk18250450,5,freeship,instagram,1841.25
+ord200919,2025-02-07,c92086,printer,2,374.6,187 main st,online,shipped,trk23357668,3,freeship,referral,749.2
+ord200920,2025-03-12,c26137,tablet,2,428.09,978 main st,credit card,returned,trk98110407,6,freeship,instagram,856.18
+ord200921,2023-07-24,c90573,tablet,1,438.93,144 main st,gift card,cancelled,trk90075720,3,save10,referral,438.93
+ord200922,2024-06-17,c81857,desk,2,563.82,487 main st,credit card,pending,trk79737732,3,freeship,instagram,1127.64
+ord200923,2023-02-11,c91582,printer,3,649.93,836 main st,credit card,pending,trk99938245,7,winter15,facebook,1949.79
+ord200924,2025-03-22,c81319,printer,5,268.43,991 main st,cash,returned,trk55330558,5,save10,email,1342.15
+ord200925,2024-12-20,c78500,monitor,5,502.47,304 main st,online,shipped,trk97460884,10,winter15,email,2512.35
+ord200926,2024-03-20,c67533,desk,1,26.95,672 main st,cash,delivered,trk14566395,1,winter15,email,26.95
+ord200927,2023-02-14,c35566,laptop,4,64.69,638 main st,debit card,shipped,trk10003020,7,winter15,google,258.76
+ord200928,2024-05-09,c77166,laptop,3,247.11,821 main st,debit card,returned,trk18896595,3,winter15,referral,741.33
+ord200929,2024-10-16,c67936,tablet,2,536.25,553 main st,debit card,pending,trk71803414,3,freeship,email,1072.5
+ord200930,2024-12-16,c59554,phone,2,456.04,382 main st,debit card,returned,trk28182447,4,freeship,email,912.08
+ord200931,2024-01-01,c14005,printer,2,40.23,623 main st,credit card,cancelled,trk87567926,4,save10,google,80.46
+ord200932,2023-03-26,c26118,laptop,2,72.39,168 main st,online,delivered,trk15334251,7,winter15,instagram,144.78
+ord200933,2023-01-26,c59685,monitor,2,394.16,255 main st,online,shipped,trk43718093,2,freeship,referral,788.32
+ord200934,2025-06-01,c40304,laptop,4,119.84,692 main st,gift card,shipped,trk85790948,8,freeship,referral,479.36
+ord200935,2023-11-24,c39593,phone,3,692.71,398 main st,credit card,delivered,trk62405253,3,freeship,instagram,2078.13
+ord200936,2024-01-12,c50612,chair,4,56.66,737 main st,online,delivered,trk44140968,4,save10,instagram,226.64
+ord200937,2024-01-16,c39791,chair,2,298.53,536 main st,debit card,cancelled,trk46221436,5,winter15,email,597.06
+ord200938,2023-07-12,c39017,chair,3,331.46,696 main st,credit card,cancelled,trk91155214,6,winter15,referral,994.38
+ord200939,2025-04-16,c48510,laptop,2,521.4,212 main st,cash,delivered,trk53152886,7,save10,instagram,1042.8
+ord200940,2023-03-27,c74003,printer,4,305.32,679 main st,online,cancelled,trk91525779,4,save10,google,1221.28
+ord200941,2023-07-17,c91155,printer,5,111.7,599 main st,credit card,cancelled,trk82162952,9,freeship,email,558.5
+ord200942,2023-09-29,c17591,tablet,1,479.76,882 main st,credit card,pending,trk56070470,1,freeship,email,479.76
+ord200943,2023-12-27,c43330,monitor,3,193.49,355 main st,gift card,returned,trk71594838,6,freeship,facebook,580.47
+ord200944,2024-12-16,c32687,laptop,2,426.22,448 main st,online,delivered,trk98284560,7,winter15,google,852.44
+ord200945,2023-08-20,c79722,tablet,5,276.44,619 main st,gift card,shipped,trk29976438,10,freeship,referral,1382.2
+ord200946,2024-05-04,c65021,phone,2,404.96,546 main st,cash,shipped,trk20626179,4,save10,email,809.92
+ord200947,2023-09-07,c85520,phone,4,465.66,119 main st,online,returned,trk65994177,9,freeship,email,1862.64
+ord200948,2024-06-21,c94569,phone,2,594.07,739 main st,gift card,cancelled,trk79269291,2,freeship,google,1188.14
+ord200949,2023-11-09,c55778,desk,5,110.38,319 main st,cash,pending,trk93797108,10,freeship,referral,551.9
+ord200950,2024-05-31,c19722,laptop,1,596.24,891 main st,credit card,returned,trk78094361,4,freeship,instagram,596.24
+ord200951,2024-07-22,c74928,printer,2,306.24,589 main st,online,returned,trk39845914,4,freeship,email,612.48
+ord200952,2025-02-27,c49111,monitor,3,503.39,225 main st,online,pending,trk45303393,5,freeship,facebook,1510.17
+ord200953,2023-02-06,c43721,phone,1,131.61,971 main st,cash,shipped,trk89392104,2,freeship,facebook,131.61
+ord200954,2024-10-22,c68609,chair,3,443.44,240 main st,gift card,shipped,trk58273778,3,freeship,google,1330.32
+ord200955,2023-01-23,c82068,chair,1,408.13,164 main st,gift card,shipped,trk25779180,3,winter15,instagram,408.13
+ord200956,2024-04-11,c21191,phone,2,160.98,381 main st,debit card,delivered,trk86246309,3,save10,referral,321.96
+ord200957,2023-01-12,c73575,monitor,5,643.89,851 main st,cash,returned,trk23387612,8,winter15,facebook,3219.45
+ord200958,2023-05-13,c82685,desk,3,158.66,537 main st,gift card,delivered,trk70184320,7,winter15,email,475.98
+ord200959,2024-04-13,c73996,tablet,2,143.82,856 main st,credit card,returned,trk74579570,6,save10,instagram,287.64
+ord200960,2023-12-11,c87687,laptop,3,379.07,312 main st,gift card,pending,trk60383805,3,winter15,google,1137.21
+ord200961,2024-11-11,c55464,phone,1,601.36,532 main st,online,shipped,trk81178598,1,freeship,facebook,601.36
+ord200962,2024-09-06,c12459,phone,2,142.08,838 main st,gift card,delivered,trk30674085,4,save10,referral,284.16
+ord200963,2024-03-11,c88075,chair,5,530.34,970 main st,online,shipped,trk42832976,9,freeship,google,2651.7
+ord200964,2023-08-20,c18583,phone,5,364.42,778 main st,credit card,cancelled,trk43084595,10,save10,referral,1822.1
+ord200965,2025-06-18,c70412,laptop,4,578.28,791 main st,gift card,cancelled,trk22192783,5,freeship,email,2313.12
+ord200966,2025-05-20,c58503,monitor,5,280.52,290 main st,credit card,cancelled,trk12981657,7,winter15,facebook,1402.6
+ord200967,2025-05-06,c52879,tablet,5,638.92,502 main st,credit card,returned,trk67403284,5,freeship,google,3194.6
+ord200968,2024-02-08,c67870,monitor,4,412.2,664 main st,credit card,shipped,trk72602178,6,winter15,referral,1648.8
+ord200969,2025-06-05,c19439,desk,1,440.34,675 main st,gift card,shipped,trk25383993,2,winter15,facebook,440.34
+ord200970,2024-09-07,c72664,desk,1,627.15,241 main st,cash,delivered,trk86694331,5,save10,instagram,627.15
+ord200971,2024-05-27,c32650,monitor,2,605.26,934 main st,cash,cancelled,trk66648743,4,winter15,referral,1210.52
+ord200972,2024-06-09,c66438,laptop,1,90.27,816 main st,cash,delivered,trk32035271,5,save10,facebook,90.27
+ord200973,2025-06-09,c70010,desk,5,230.77,141 main st,online,pending,trk50594008,10,winter15,referral,1153.85
+ord200974,2023-09-27,c30722,desk,5,266.78,274 main st,gift card,cancelled,trk52088168,5,freeship,email,1333.9
+ord200975,2023-05-18,c70529,desk,1,105.92,974 main st,gift card,returned,trk82165408,6,save10,email,105.92
+ord200976,2024-04-04,c18984,tablet,3,589.3,650 main st,credit card,returned,trk49298239,6,winter15,referral,1767.9
+ord200977,2023-01-28,c85841,chair,4,649.47,608 main st,cash,pending,trk99820544,8,save10,google,2597.88
+ord200978,2024-06-25,c41508,printer,4,107.49,993 main st,cash,delivered,trk61047536,5,freeship,google,429.96
+ord200979,2023-05-31,c75018,monitor,3,669.06,299 main st,cash,delivered,trk51794806,7,save10,facebook,2007.18
+ord200980,2023-10-14,c84320,chair,3,69.65,107 main st,cash,delivered,trk81093218,7,winter15,instagram,208.95
+ord200981,2023-11-26,c12609,phone,4,136.83,490 main st,debit card,pending,trk56379337,8,save10,email,547.32
+ord200982,2024-09-06,c64935,monitor,1,304.11,707 main st,gift card,shipped,trk42969065,2,save10,referral,304.11
+ord200983,2024-11-24,c67528,monitor,4,296.28,110 main st,gift card,shipped,trk60865210,5,save10,email,1185.12
+ord200984,2025-02-28,c44176,desk,1,77.64,706 main st,credit card,shipped,trk68704764,1,freeship,facebook,77.64
+ord200985,2024-07-20,c92788,desk,1,243.71,948 main st,gift card,delivered,trk83835361,6,save10,google,243.71
+ord200986,2024-09-07,c69213,laptop,4,644.96,533 main st,credit card,pending,trk67837331,7,freeship,email,2579.84
+ord200987,2025-06-05,c67387,phone,5,283.73,436 main st,gift card,pending,trk54120003,8,freeship,instagram,1418.65
+ord200988,2025-02-04,c90318,desk,2,629.56,818 main st,gift card,cancelled,trk52765043,5,winter15,instagram,1259.12
+ord200989,2023-03-23,c49995,laptop,4,246.11,559 main st,credit card,pending,trk33212013,4,save10,instagram,984.44
+ord200990,2023-11-19,c52313,phone,2,418.26,913 main st,debit card,pending,trk67368559,2,save10,google,836.52
+ord200991,2024-05-09,c10211,desk,5,127.18,598 main st,debit card,cancelled,trk68938335,10,freeship,google,635.9
+ord200992,2024-08-27,c97907,printer,3,586.21,933 main st,gift card,pending,trk89637569,4,winter15,referral,1758.63
+ord200993,2024-04-06,c61384,monitor,3,267.45,576 main st,gift card,delivered,trk33323210,5,winter15,instagram,802.35
+ord200994,2024-06-27,c27613,tablet,4,615.65,971 main st,debit card,delivered,trk63701318,9,winter15,google,2462.6
+ord200995,2023-11-18,c99271,monitor,2,113.29,959 main st,cash,pending,trk87832736,5,save10,facebook,226.58
+ord200996,2024-04-28,c28648,monitor,4,473.86,101 main st,debit card,delivered,trk92240846,7,save10,facebook,1895.44
+ord200997,2023-11-27,c26210,laptop,3,444.75,805 main st,cash,delivered,trk40616861,6,save10,facebook,1334.25
+ord200998,2023-05-19,c90350,phone,2,183.67,783 main st,debit card,cancelled,trk22824230,6,save10,google,367.34
+ord200999,2023-12-24,c61957,printer,1,483.38,652 main st,cash,pending,trk43983841,6,freeship,google,483.38
+ord201000,2023-06-21,c90132,printer,5,260.93,582 main st,online,delivered,trk52664903,9,save10,email,1304.65
+ord201001,2023-12-08,c31371,printer,2,253.68,122 main st,gift card,shipped,trk19554327,6,freeship,referral,507.36
+ord201002,2025-06-19,c83911,tablet,4,699.88,944 main st,cash,pending,trk33188106,5,winter15,referral,2799.52
+ord201003,2023-01-11,c84700,printer,5,319.97,582 main st,cash,shipped,trk14706969,7,save10,google,1599.85
+ord201004,2025-06-09,c87529,chair,4,246.91,296 main st,online,pending,trk15739505,8,save10,referral,987.64
+ord201005,2023-03-02,c38065,printer,3,392.85,426 main st,credit card,returned,trk11448295,6,freeship,google,1178.55
+ord201006,2024-05-27,c27435,tablet,5,420.98,860 main st,cash,delivered,trk91458233,7,save10,facebook,2104.9
+ord201007,2024-03-20,c46651,monitor,2,73.26,839 main st,cash,pending,trk60444502,4,winter15,facebook,146.52
+ord201008,2023-01-13,c62557,monitor,3,410.88,257 main st,cash,delivered,trk12742366,8,freeship,instagram,1232.64
+ord201009,2023-09-02,c54494,tablet,2,176.46,696 main st,credit card,delivered,trk95958645,2,freeship,email,352.92
+ord201010,2023-03-31,c33729,monitor,3,659.57,533 main st,credit card,cancelled,trk35649833,6,save10,email,1978.71
+ord201011,2024-12-03,c47823,phone,2,478.36,654 main st,online,shipped,trk22271097,3,freeship,google,956.72
+ord201012,2024-12-03,c84570,printer,4,30.05,301 main st,online,returned,trk12551882,6,freeship,facebook,120.2
+ord201013,2025-04-26,c91123,laptop,4,300.56,842 main st,cash,cancelled,trk49568409,9,freeship,facebook,1202.24
+ord201014,2024-02-04,c92548,tablet,5,226.45,160 main st,debit card,returned,trk21682892,6,freeship,email,1132.25
+ord201015,2024-01-26,c97454,printer,2,349.4,892 main st,online,shipped,trk73249329,2,save10,instagram,698.8
+ord201016,2023-12-29,c20257,tablet,5,268.78,669 main st,debit card,delivered,trk62135578,7,winter15,email,1343.9
+ord201017,2024-08-25,c51694,chair,2,680.85,953 main st,gift card,delivered,trk83122112,6,freeship,referral,1361.7
+ord201018,2023-07-08,c77499,laptop,3,182.48,209 main st,cash,delivered,trk20703086,3,freeship,instagram,547.44
+ord201019,2024-04-06,c28386,desk,1,277.09,293 main st,cash,returned,trk32954229,2,save10,referral,277.09
+ord201020,2024-04-22,c50211,tablet,2,26.5,312 main st,online,delivered,trk47787981,3,save10,instagram,53.0
+ord201021,2023-10-23,c74519,phone,3,315.27,309 main st,credit card,cancelled,trk97351945,4,save10,email,945.81
+ord201022,2025-02-24,c19071,tablet,3,450.98,396 main st,credit card,shipped,trk66537096,8,save10,referral,1352.94
+ord201023,2024-09-23,c65251,laptop,5,233.67,291 main st,cash,shipped,trk32059025,10,freeship,referral,1168.35
+ord201024,2024-01-29,c90612,chair,3,367.75,731 main st,cash,pending,trk93022878,7,freeship,facebook,1103.25
+ord201025,2025-05-17,c28406,chair,1,23.53,174 main st,gift card,delivered,trk98841457,2,freeship,instagram,23.53
+ord201026,2023-05-01,c55454,monitor,1,677.48,807 main st,online,delivered,trk13281370,1,winter15,facebook,677.48
+ord201027,2024-05-21,c93467,laptop,4,554.83,983 main st,cash,returned,trk77377373,6,freeship,google,2219.32
+ord201028,2023-02-17,c60042,desk,4,440.31,610 main st,cash,cancelled,trk84651559,6,freeship,instagram,1761.24
+ord201029,2025-03-01,c44733,desk,1,87.06,851 main st,credit card,shipped,trk41500198,4,freeship,email,87.06
+ord201030,2023-10-02,c61773,phone,4,245.28,176 main st,credit card,delivered,trk12936357,6,winter15,email,981.12
+ord201032,2023-04-20,c26188,chair,1,618.68,990 main st,online,delivered,trk61634201,6,winter15,referral,618.68
+ord201033,2024-12-24,c20338,monitor,1,370.85,331 main st,gift card,delivered,trk30654048,2,freeship,referral,370.85
+ord201034,2024-06-16,c84524,printer,4,517.98,766 main st,cash,cancelled,trk76751888,8,freeship,facebook,2071.92
+ord201035,2023-11-12,c70315,laptop,4,506.11,911 main st,cash,cancelled,trk97732085,5,freeship,referral,2024.44
+ord201036,2024-05-31,c98278,phone,3,413.83,552 main st,gift card,shipped,trk49684737,8,save10,facebook,1241.49
+ord201037,2023-12-13,c32347,printer,1,249.81,408 main st,cash,pending,trk54073964,1,save10,google,249.81
+ord201038,2025-03-15,c77961,tablet,3,362.53,422 main st,debit card,returned,trk28969024,5,freeship,facebook,1087.59
+ord201039,2025-06-28,c49137,desk,2,299.23,177 main st,credit card,cancelled,trk79362428,2,winter15,instagram,598.46
+ord201040,2023-11-15,c13169,tablet,1,536.07,932 main st,debit card,delivered,trk66288666,5,freeship,google,536.07
+ord201041,2023-02-11,c21167,monitor,4,558.9,948 main st,gift card,shipped,trk97737564,9,winter15,google,2235.6
+ord201042,2024-12-09,c59724,tablet,2,409.75,414 main st,debit card,shipped,trk67878272,2,winter15,facebook,819.5
+ord201043,2025-01-11,c43965,tablet,2,179.96,675 main st,gift card,shipped,trk94346739,5,freeship,instagram,359.92
+ord201044,2025-06-22,c63018,printer,1,38.49,215 main st,credit card,delivered,trk52335337,4,freeship,referral,38.49
+ord201045,2024-09-20,c11893,laptop,5,316.4,671 main st,gift card,returned,trk72012758,7,freeship,email,1582.0
+ord201046,2024-10-07,c85421,tablet,3,547.15,466 main st,online,shipped,trk16524006,4,winter15,instagram,1641.45
+ord201047,2023-06-23,c81726,chair,4,540.34,394 main st,gift card,shipped,trk69872994,6,winter15,referral,2161.36
+ord201048,2024-09-09,c57601,monitor,4,73.65,889 main st,debit card,shipped,trk21153699,9,freeship,google,294.6
+ord201049,2024-07-18,c60575,desk,5,391.86,587 main st,credit card,shipped,trk44468232,6,freeship,instagram,1959.3
+ord201050,2023-08-20,c70659,laptop,5,69.7,722 main st,online,returned,trk49663597,9,freeship,instagram,348.5
+ord201051,2025-03-05,c35043,monitor,5,26.43,820 main st,gift card,shipped,trk65097450,5,freeship,facebook,132.15
+ord201052,2023-09-11,c12301,tablet,1,531.74,493 main st,online,shipped,trk25145796,1,winter15,google,531.74
+ord201053,2024-09-15,c32798,phone,2,496.62,679 main st,online,pending,trk37375451,2,save10,instagram,993.24
+ord201054,2023-11-29,c42949,printer,1,660.66,447 main st,debit card,delivered,trk46415143,3,winter15,instagram,660.66
+ord201055,2023-10-23,c10787,monitor,4,274.82,932 main st,debit card,delivered,trk91512567,9,winter15,email,1099.28
+ord201056,2024-06-14,c26152,phone,2,486.35,790 main st,online,pending,trk49382455,6,save10,referral,972.7
+ord201057,2024-09-24,c46210,laptop,3,428.88,535 main st,debit card,shipped,trk81611937,3,winter15,facebook,1286.64
+ord201058,2023-09-08,c32943,desk,2,412.14,127 main st,credit card,returned,trk26949106,2,freeship,instagram,824.28
+ord201059,2024-09-22,c73629,desk,1,265.64,601 main st,credit card,returned,trk11492924,3,winter15,instagram,265.64
+ord201060,2024-05-07,c38024,tablet,2,273.43,824 main st,cash,shipped,trk93370912,7,winter15,referral,546.86
+ord201061,2025-01-29,c25445,laptop,5,131.7,830 main st,cash,shipped,trk12402431,8,freeship,google,658.5
+ord201062,2023-08-23,c13501,chair,5,85.52,301 main st,gift card,cancelled,trk65149372,5,freeship,facebook,427.6
+ord201063,2024-06-19,c42108,desk,2,320.68,336 main st,credit card,shipped,trk58407918,5,freeship,referral,641.36
+ord201064,2025-02-12,c32121,laptop,4,198.81,654 main st,cash,returned,trk96074264,9,freeship,referral,795.24
+ord201066,2023-12-20,c10791,desk,1,355.09,674 main st,debit card,cancelled,trk20321248,5,save10,instagram,355.09
+ord201067,2023-06-06,c78959,phone,2,316.2,384 main st,online,returned,trk37426359,2,freeship,instagram,632.4
+ord201068,2024-08-03,c29914,laptop,1,133.39,469 main st,debit card,shipped,trk22073506,2,save10,referral,133.39
+ord201069,2023-02-25,c70506,monitor,1,454.23,255 main st,gift card,returned,trk12518384,3,freeship,facebook,454.23
+ord201070,2024-09-06,c46873,desk,4,491.29,496 main st,debit card,pending,trk10926575,6,freeship,email,1965.16
+ord201071,2025-06-24,c94037,phone,2,255.14,216 main st,cash,shipped,trk47536985,2,freeship,google,510.28
+ord201072,2023-02-26,c88644,monitor,1,392.61,977 main st,gift card,cancelled,trk14900878,4,save10,referral,392.61
+ord201073,2024-10-11,c69471,tablet,4,362.06,294 main st,debit card,returned,trk11107152,4,freeship,facebook,1448.24
+ord201074,2024-05-10,c21437,phone,1,222.73,120 main st,online,returned,trk81624772,4,freeship,google,222.73
+ord201075,2024-08-31,c40949,monitor,2,552.63,609 main st,debit card,delivered,trk43066749,7,winter15,instagram,1105.26
+ord201076,2023-05-08,c99116,laptop,4,686.61,176 main st,cash,shipped,trk52711973,6,freeship,referral,2746.44
+ord201077,2025-03-07,c57861,printer,3,305.16,115 main st,credit card,cancelled,trk47775217,8,save10,referral,915.48
+ord201078,2023-03-18,c62627,desk,1,41.09,881 main st,online,returned,trk90060232,4,winter15,email,41.09
+ord201079,2024-06-20,c89979,phone,5,634.0,144 main st,gift card,delivered,trk99055909,8,freeship,email,3170.0
+ord201080,2023-01-20,c70613,laptop,5,464.74,438 main st,gift card,delivered,trk33140293,7,freeship,referral,2323.7
+ord201081,2023-04-21,c55636,monitor,4,425.6,494 main st,credit card,pending,trk85897054,5,freeship,google,1702.4
+ord201082,2023-10-06,c96595,chair,3,573.22,177 main st,debit card,pending,trk59779174,5,save10,email,1719.66
+ord201083,2024-07-09,c68508,chair,1,123.28,895 main st,credit card,delivered,trk98960285,3,save10,email,123.28
+ord201084,2023-01-08,c45175,phone,1,70.82,128 main st,gift card,pending,trk41792296,1,winter15,instagram,70.82
+ord201085,2023-05-21,c28049,printer,2,646.69,404 main st,debit card,shipped,trk91426444,7,winter15,instagram,1293.38
+ord201086,2023-12-23,c46967,tablet,2,513.42,401 main st,online,pending,trk91439791,5,winter15,instagram,1026.84
+ord201087,2025-03-23,c84134,laptop,4,693.07,530 main st,online,shipped,trk48659380,8,save10,instagram,2772.28
+ord201088,2023-11-30,c49831,desk,3,491.43,213 main st,gift card,shipped,trk21232601,6,winter15,instagram,1474.29
+ord201089,2025-03-15,c13324,tablet,2,599.74,440 main st,gift card,shipped,trk66967997,2,freeship,instagram,1199.48
+ord201090,2023-02-25,c61225,monitor,2,650.25,996 main st,gift card,returned,trk37022954,6,freeship,instagram,1300.5
+ord201091,2024-10-08,c16400,laptop,3,209.48,123 main st,debit card,pending,trk57771859,4,freeship,email,628.44
+ord201092,2023-08-21,c38642,laptop,5,209.2,930 main st,debit card,delivered,trk47744396,6,winter15,email,1046.0
+ord201093,2023-06-09,c86773,phone,4,197.36,557 main st,gift card,returned,trk22612240,9,freeship,instagram,789.44
+ord201094,2023-06-28,c66093,printer,4,648.91,615 main st,credit card,shipped,trk54950785,6,save10,instagram,2595.64
+ord201095,2024-04-23,c33051,phone,2,441.54,397 main st,online,delivered,trk92929755,2,save10,email,883.08
+ord201096,2025-05-03,c18169,tablet,2,464.92,782 main st,debit card,returned,trk49482923,2,freeship,facebook,929.84
+ord201097,2024-12-26,c81370,monitor,5,506.45,344 main st,gift card,shipped,trk99682998,7,winter15,google,2532.25
+ord201098,2023-06-17,c91103,monitor,4,255.86,155 main st,credit card,delivered,trk91653000,7,freeship,email,1023.44
+ord201099,2024-09-19,c21953,laptop,2,125.23,272 main st,cash,cancelled,trk60774796,3,freeship,email,250.46
+ord201100,2023-08-17,c15146,laptop,5,38.11,428 main st,debit card,cancelled,trk79790530,6,winter15,instagram,190.55
+ord201101,2025-06-08,c43546,monitor,3,161.97,904 main st,cash,pending,trk85871121,4,save10,email,485.91
+ord201102,2024-06-03,c98474,chair,4,347.17,997 main st,debit card,shipped,trk86192984,8,freeship,instagram,1388.68
+ord201103,2023-04-24,c90292,laptop,4,276.32,129 main st,online,delivered,trk26270357,5,freeship,google,1105.28
+ord201104,2024-07-25,c17075,tablet,4,314.76,850 main st,online,shipped,trk63547510,8,freeship,instagram,1259.04
+ord201105,2024-01-08,c12487,tablet,3,475.69,884 main st,gift card,cancelled,trk23324770,3,freeship,google,1427.07
+ord201106,2023-03-12,c34555,chair,1,372.8,903 main st,cash,cancelled,trk72859458,6,save10,facebook,372.8
+ord201107,2025-06-30,c25110,tablet,2,63.21,282 main st,online,cancelled,trk80963328,4,save10,google,126.42
+ord201108,2023-03-20,c35136,laptop,1,634.94,462 main st,online,cancelled,trk49753703,5,winter15,instagram,634.94
+ord201109,2024-04-08,c62277,printer,4,77.47,474 main st,gift card,returned,trk32026174,7,save10,instagram,309.88
+ord201110,2024-02-25,c12472,chair,3,84.31,912 main st,credit card,shipped,trk36103184,3,save10,email,252.93
+ord201111,2023-05-06,c24047,monitor,4,234.45,362 main st,online,cancelled,trk91338580,9,freeship,instagram,937.8
+ord201112,2023-10-13,c76929,desk,1,356.81,563 main st,online,delivered,trk80694400,1,winter15,instagram,356.81
+ord201113,2023-03-19,c52914,desk,4,209.99,168 main st,cash,delivered,trk80819053,8,freeship,google,839.96
+ord201114,2023-03-16,c55164,tablet,3,659.88,609 main st,gift card,cancelled,trk79610967,3,freeship,google,1979.64
+ord201115,2025-06-20,c70426,laptop,2,336.32,562 main st,online,returned,trk89687816,3,freeship,google,672.64
+ord201116,2023-10-14,c69149,printer,2,531.49,562 main st,credit card,delivered,trk61265132,7,winter15,facebook,1062.98
+ord201117,2024-05-20,c78684,chair,3,588.44,858 main st,gift card,shipped,trk95779073,8,winter15,google,1765.32
+ord201118,2024-05-24,c58168,phone,3,251.48,359 main st,credit card,returned,trk99102265,4,freeship,email,754.44
+ord201119,2024-11-24,c99024,laptop,1,684.65,250 main st,credit card,delivered,trk24675988,1,freeship,email,684.65
+ord201120,2025-05-10,c22919,tablet,1,195.86,267 main st,online,pending,trk82416295,3,freeship,facebook,195.86
+ord201121,2023-05-28,c98354,phone,3,50.34,393 main st,gift card,returned,trk43070888,3,freeship,instagram,151.02
+ord201123,2023-04-14,c68936,tablet,3,554.25,843 main st,debit card,shipped,trk73163634,6,winter15,referral,1662.75
+ord201124,2023-05-09,c33744,chair,4,576.87,888 main st,gift card,returned,trk40245983,5,freeship,instagram,2307.48
+ord201125,2023-10-16,c23555,desk,4,408.36,156 main st,gift card,cancelled,trk67210247,4,freeship,referral,1633.44
+ord201126,2024-07-22,c34337,phone,5,190.11,325 main st,cash,delivered,trk36195559,7,save10,google,950.55
+ord201127,2025-03-15,c69396,printer,3,602.75,920 main st,credit card,shipped,trk33155049,6,save10,email,1808.25
+ord201128,2023-08-17,c49198,monitor,3,646.79,447 main st,cash,cancelled,trk10883354,5,winter15,google,1940.37
+ord201129,2023-06-11,c43911,chair,4,418.71,239 main st,cash,pending,trk37495481,8,freeship,instagram,1674.84
+ord201130,2025-02-16,c24347,laptop,2,323.45,533 main st,credit card,returned,trk27233265,5,freeship,instagram,646.9
+ord201131,2024-07-18,c21043,phone,1,694.5,195 main st,credit card,pending,trk41691086,3,winter15,facebook,694.5
+ord201132,2024-12-02,c58858,chair,2,337.32,948 main st,credit card,cancelled,trk30406357,4,save10,email,674.64
+ord201133,2024-04-09,c20670,printer,2,467.91,432 main st,gift card,returned,trk76731303,5,winter15,facebook,935.82
+ord201134,2024-06-08,c90993,desk,4,38.28,950 main st,debit card,cancelled,trk53964711,4,winter15,facebook,153.12
+ord201135,2023-12-28,c11473,printer,2,73.41,562 main st,online,shipped,trk97793275,2,save10,google,146.82
+ord201136,2023-09-24,c71899,tablet,3,668.33,799 main st,gift card,pending,trk34856025,4,winter15,facebook,2004.99
+ord201137,2024-07-29,c48577,printer,4,410.21,841 main st,cash,pending,trk59911645,5,winter15,instagram,1640.84
+ord201138,2023-12-18,c13100,desk,4,294.41,188 main st,debit card,pending,trk55565668,4,freeship,instagram,1177.64
+ord201139,2025-03-01,c70659,chair,3,501.82,568 main st,gift card,cancelled,trk28290825,4,freeship,email,1505.46
+ord201140,2024-06-24,c49838,printer,2,552.83,904 main st,credit card,cancelled,trk38297718,3,freeship,referral,1105.66
+ord201141,2025-02-16,c11998,chair,3,498.66,382 main st,cash,cancelled,trk26707221,6,freeship,email,1495.98
+ord201142,2024-08-23,c23405,phone,4,695.1,484 main st,debit card,returned,trk83678708,8,freeship,email,2780.4
+ord201143,2023-04-03,c41132,chair,1,381.61,114 main st,debit card,pending,trk51040137,5,freeship,email,381.61
+ord201144,2023-02-16,c88463,desk,5,507.94,292 main st,online,cancelled,trk88749996,9,freeship,facebook,2539.7
+ord201145,2025-05-12,c28152,desk,3,571.53,821 main st,debit card,delivered,trk59642814,6,freeship,facebook,1714.59
+ord201146,2024-10-03,c36383,monitor,5,421.44,286 main st,cash,pending,trk93336357,5,save10,instagram,2107.2
+ord201147,2025-01-02,c19759,chair,2,588.3,234 main st,online,pending,trk22515454,2,freeship,email,1176.6
+ord201148,2024-06-25,c54886,phone,1,355.15,442 main st,cash,returned,trk66241930,2,save10,email,355.15
+ord201149,2024-07-25,c27305,chair,2,695.29,957 main st,credit card,pending,trk28789916,6,freeship,instagram,1390.58
+ord201150,2023-02-20,c17921,desk,4,302.65,119 main st,credit card,cancelled,trk79291524,8,save10,referral,1210.6
+ord201151,2023-01-29,c94381,chair,2,608.04,962 main st,cash,cancelled,trk69804304,4,freeship,google,1216.08
+ord201152,2023-11-09,c25162,tablet,2,344.18,533 main st,credit card,shipped,trk42183078,7,freeship,referral,688.36
+ord201153,2024-12-16,c98317,monitor,4,696.71,276 main st,debit card,shipped,trk37172138,4,freeship,instagram,2786.84
+ord201154,2025-06-11,c53631,monitor,3,198.63,593 main st,cash,pending,trk67589167,8,save10,instagram,595.89
+ord201155,2023-08-13,c41478,printer,4,534.57,667 main st,credit card,delivered,trk62068126,6,freeship,facebook,2138.28
+ord201156,2023-07-19,c20512,laptop,4,690.78,980 main st,credit card,shipped,trk98234737,9,freeship,referral,2763.12
+ord201157,2024-05-29,c25841,monitor,3,301.55,242 main st,debit card,delivered,trk21451375,5,freeship,google,904.65
+ord201158,2023-04-20,c82781,monitor,4,27.42,661 main st,debit card,pending,trk20605418,4,save10,referral,109.68
+ord201159,2024-02-23,c66112,desk,4,466.7,874 main st,debit card,returned,trk60955607,8,freeship,instagram,1866.8
+ord201160,2024-09-04,c40466,desk,1,541.64,449 main st,debit card,shipped,trk70255168,5,save10,email,541.64
+ord201161,2023-10-16,c32570,phone,1,11.39,826 main st,cash,cancelled,trk35969968,6,winter15,email,11.39
+ord201162,2025-03-11,c29405,phone,2,224.37,251 main st,debit card,delivered,trk33125798,3,winter15,referral,448.74
+ord201163,2024-06-11,c30643,laptop,3,306.29,966 main st,credit card,returned,trk19477485,7,winter15,instagram,918.87
+ord201164,2024-01-08,c65890,tablet,5,315.57,340 main st,debit card,delivered,trk64530489,6,winter15,email,1577.85
+ord201165,2023-07-14,c36992,chair,3,223.79,617 main st,debit card,pending,trk63460217,3,freeship,google,671.37
+ord201166,2023-07-31,c95568,chair,3,324.47,971 main st,cash,delivered,trk37075292,4,winter15,email,973.41
+ord201167,2023-10-17,c17966,printer,2,92.87,360 main st,credit card,pending,trk31169396,5,freeship,facebook,185.74
+ord201168,2023-04-08,c89559,laptop,2,331.42,297 main st,credit card,delivered,trk82838108,6,winter15,google,662.84
+ord201169,2024-12-23,c15849,chair,1,525.43,643 main st,cash,cancelled,trk26794546,2,save10,instagram,525.43
+ord201170,2023-08-03,c94257,printer,2,697.19,762 main st,cash,returned,trk40220743,7,freeship,email,1394.38
+ord201171,2023-08-28,c39911,phone,4,518.4,699 main st,credit card,delivered,trk80431998,7,save10,facebook,2073.6
+ord201172,2025-02-04,c28828,desk,3,131.96,745 main st,credit card,pending,trk32550359,8,freeship,instagram,395.88
+ord201173,2024-10-04,c82921,monitor,1,208.36,703 main st,online,shipped,trk31079911,4,freeship,email,208.36
+ord201174,2023-11-27,c50159,printer,3,222.34,105 main st,credit card,returned,trk53737452,5,winter15,email,667.02
+ord201175,2024-09-10,c62512,printer,3,91.74,368 main st,debit card,returned,trk24139954,8,freeship,referral,275.22
+ord201176,2023-08-13,c39260,tablet,2,213.83,374 main st,debit card,cancelled,trk55587314,2,winter15,email,427.66
+ord201177,2023-04-27,c23917,printer,1,127.55,433 main st,cash,shipped,trk44434536,3,save10,referral,127.55
+ord201178,2024-09-08,c65107,monitor,1,70.24,456 main st,credit card,cancelled,trk10261578,4,freeship,google,70.24
+ord201179,2023-01-08,c84630,laptop,5,518.55,907 main st,credit card,cancelled,trk48054997,6,winter15,instagram,2592.75
+ord201180,2023-10-31,c42235,chair,4,298.36,722 main st,debit card,pending,trk49379882,8,freeship,google,1193.44
+ord201181,2023-07-27,c70246,desk,3,158.74,293 main st,online,pending,trk45708320,7,freeship,instagram,476.22
+ord201182,2025-06-14,c18473,chair,2,420.29,700 main st,gift card,returned,trk97834202,3,save10,google,840.58
+ord201183,2023-04-05,c12607,desk,1,281.52,460 main st,gift card,shipped,trk83653396,6,winter15,referral,281.52
+ord201184,2023-09-27,c10222,laptop,1,204.08,979 main st,gift card,returned,trk86297895,4,freeship,google,204.08
+ord201185,2024-07-08,c77344,chair,1,343.31,777 main st,gift card,returned,trk20605055,6,save10,google,343.31
+ord201186,2023-11-18,c65497,monitor,1,163.32,676 main st,cash,shipped,trk83702761,6,winter15,facebook,163.32
+ord201187,2024-03-13,c26340,desk,2,184.6,562 main st,gift card,delivered,trk59962703,7,winter15,email,369.2
+ord201188,2023-10-07,c75619,printer,2,371.29,924 main st,gift card,shipped,trk23086941,5,winter15,facebook,742.58
+ord201189,2024-08-17,c96136,tablet,5,389.22,149 main st,cash,cancelled,trk60856682,7,freeship,referral,1946.1
+ord201190,2025-06-08,c46886,desk,3,616.39,754 main st,credit card,shipped,trk82791646,6,freeship,instagram,1849.17
+ord201191,2025-02-10,c44148,desk,4,376.43,809 main st,gift card,pending,trk67872709,5,winter15,instagram,1505.72
+ord201192,2024-02-28,c72007,chair,3,432.85,999 main st,online,pending,trk16240916,4,freeship,instagram,1298.55
+ord201193,2025-06-16,c45104,tablet,1,687.89,348 main st,cash,returned,trk38559816,1,freeship,email,687.89
+ord201194,2023-11-19,c29885,printer,3,189.44,725 main st,cash,pending,trk62067865,4,freeship,email,568.32
+ord201195,2024-06-20,c21126,desk,1,107.04,392 main st,credit card,cancelled,trk38009181,6,freeship,google,107.04
+ord201196,2024-03-04,c20095,monitor,2,662.53,778 main st,online,cancelled,trk69207593,5,freeship,facebook,1325.06
+ord201197,2023-07-13,c79674,tablet,2,436.84,275 main st,online,delivered,trk88039356,2,freeship,instagram,873.68
+ord201198,2024-08-22,c64753,chair,4,262.52,509 main st,debit card,cancelled,trk71683331,4,winter15,instagram,1050.08
+ord201199,2023-06-11,c57502,tablet,4,560.58,201 main st,gift card,returned,trk51116746,6,save10,referral,2242.32
